@@ -1,0 +1,422 @@
+suburb,Region,Postcode,Ethnic Breakdown 2016,Median House Price (2020),Median House Price (2021),% Change,Median House Rent (per week),Median Apartment Price (2020),Median Apartment Rent (per week),Public Housing %,Review Link
+Hornsby,Upper North Shore,2077,"Chinese 17.1%, English 16.8%, Australian 14.0%, Indian 5.9%, Irish 5.6%","$1,150,000.00 ","$1,400,000.00 ",21.74%,$600.00 ,"$645,000.00 ",$460.00 ,3%,https://sydneysuburbreviews.com/hornsby
+Oatley,Southern Suburbs,2223,"English 23.0%, Australian 21.1%, Chinese 9.8%, Irish 8.9%, Scottish 5.7%","$1,550,000.00 ","$1,800,000.00 ",16.13%,$670.00 ,"$780,000.00 ",$470.00 ,0%,https://sydneysuburbreviews.com/oatley-suburb-review
+Dulwich Hill,Inner West,2203,"English 19.4%, Australian 16.4%, Irish 9.5%, Scottish 6.2%, Greek 5.2%","$1,500,000.00 ","$1,900,000.00 ",26.67%,$725.00 ,"$780,000.00 ",$475.00 ,2%,https://sydneysuburbreviews.com/dulwich-hill
+Jannali,Sutherland Shire,2226,"English 28.2%, Australian 26.3%, Irish 9.8%, Scottish 6.5%, Chinese 3.0%","$1,050,000.00 ","$1,300,000.00 ",23.81%,$610.00 ,"$620,000.00 ",$465.00 ,8%,https://sydneysuburbreviews.com/jannali
+Waverton,Lower North Shore,2060,"English 24.9%, Australian 15.5%, Irish 11.0%, Chinese 8.4%, Scottish 8.1%","$2,650,000.00 ","$3,400,000.00 ",28.30%,"$1,000.00 ","$1,200,000.00 ",$630.00 ,1%,https://sydneysuburbreviews.com/waverton
+Concord,Inner West,2137,"Italian 17.7%, English 14.7%, Australian 14.0%, Chinese 9.5%, Irish 7.4%","$1,800,000.00 ","$2,200,000.00 ",22.22%,$750.00 ,"$995,000.00 ",$500.00 ,3%,https://sydneysuburbreviews.com/concord
+Holsworthy,Western Suburbs,2173,"Australian 20.4%, English 18.7%, Indian 9.4%, Chinese 6.5%, Irish 5.9%","$800,000.00 ","$950,000.00 ",18.75%,$520.00 ,"$570,000.00 ",$515.00 ,0%,https://sydneysuburbreviews.com/holsworthy
+Summer Hill,Inner West,2130,"English 20.3%, Australian 16.3%, Irish 9.7%, Chinese 7.5%, Scottish 6.8%","$1,700,000.00 ","$2,100,000.00 ",23.53%,$770.00 ,"$770,000.00 ",$475.00 ,1%,https://sydneysuburbreviews.com/summer-hill
+Artarmon,North Shore,2064,"Chinese 17.9%, English 17.3%, Australian 14.5%, Irish 6.7%, Scottish 4.9%","$2,500,000.00 ","$2,950,000.00 ",18.00%,"$1,050.00 ","$900,000.00 ",$595.00 ,5%,https://sydneysuburbreviews.com/artarmon
+Croydon,Inner West,2132,"Chinese 16.6%, English 14.4%, Australian 14.0%, Italian 8.2%, Irish 7.3%","$1,400,000.00 ","$1,800,000.00 ",28.57%,$690.00 ,"$710,000.00 ",$480.00 ,3%,https://sydneysuburbreviews.com/croydon
+Engadine,Sutherland Shire,2233,"Australian 31.2%, English 31.1%, Irish 10.1%, Scottish 7.4%, German 2.4%","$950,000.00 ","$1,100,000.00 ",15.79%,$650.00 ,"$680,000.00 ",$445.00 ,1%,https://sydneysuburbreviews.com/engadine
+Padstow,Western Suburbs,2211,"Australian 16.9%, English 15.5%, Chinese 13.8%, Irish 5.3%, Lebanese 4.9%","$965,000.00 ","$1,150,000.00 ",19.17%,$585.00 ,"$695,000.00 ",$440.00 ,8%,https://sydneysuburbreviews.com/padstow
+Panania,Western Suburbs,2213,"Australian 21.6%, English 18.6%, Irish 7.3%, Chinese 6.6%, Lebanese 5.1%","$950,000.00 ","$1,100,000.00 ",15.79%,$630.00 ,"$750,000.00 ",$450.00 ,11%,https://sydneysuburbreviews.com/panania
+Putney,North Shore,2112,"English 18.3%, Australian 17.3%, Italian 11.3%, Chinese 9.3%, Irish 7.1%","$2,150,000.00 ","$2,550,000.00 ",18.60%,$920.00 ,,$580.00 ,0%,https://sydneysuburbreviews.com/putney
+Como,Sutherland Shire,2226,"English 29.2%, Australian 28.2%, Irish 11.2%, Scottish 6.9%, Chinese 3.0%","$1,200,000.00 ","$1,500,000.00 ",25.00%,$660.00 ,"$650,000.00 ",$510.00 ,0%,https://sydneysuburbreviews.com/como
+Cronulla,Sutherland Shire,2230,"English 28.5%, Australian 24.5%, Irish 10.9%, Scottish 7.4%, Italian 3.0%","$1,900,000.00 ","$2,300,000.00 ",21.05%,"$1,050.00 ","$790,000.00 ",$500.00 ,1%,https://sydneysuburbreviews.com/cronulla
+Gymea,Sutherland Shire,2227,"English 27.0%, Australian 25.3%, Irish 10.6%, Scottish 6.6%, Italian 3.6%","$1,200,000.00 ","$1,350,000.00 ",12.50%,$670.00 ,"$735,000.00 ",$510.00 ,3%,https://sydneysuburbreviews.com/gymea
+Kirrawee,Sutherland Shire,2232,"English 28.9%, Australian 26.9%, Irish 9.8%, Scottish 7.1%, Chinese 2.9%","$1,150,000.00 ","$1,350,000.00 ",17.39%,$670.00 ,"$710,000.00 ",$520.00 ,6%,
+Lugarno,Southern Suburbs,2210,"English 22.6%, Australian 21.3%, Irish 8.6%, Greek 7.2%, Scottish 5.4%","$1,200,000.00 ","$1,500,000.00 ",25.00%,$600.00 ,,,2%,https://sydneysuburbreviews.com/lugarno
+Penshurst,Southern Suburbs,2222,"Chinese 20.4%, English 13.2%, Australian 12.1%, Nepalese 5.9%, Irish 5.3%","$1,150,000.00 ","$1,350,000.00 ",17.39%,$610.00 ,"$590,000.00 ",$420.00 ,1%,https://sydneysuburbreviews.com/penshurst
+Rouse Hill,Hills Shire,2155,"English 22.8%, Australian 22.4%, Irish 6.8%, Scottish 5.4%, Chinese 4.1%","$925,000.00 ","$1,150,000.00 ",24.32%,$600.00 ,"$720,000.00 ",$480.00 ,0%,https://sydneysuburbreviews.com/rouse-hill
+Wahroonga,Upper North Shore,2076,"English 25.1%, Australian 19.5%, Chinese 9.4%, Irish 8.4%, Scottish 7.7%","$2,050,000.00 ","$2,300,000.00 ",12.20%,$875.00 ,"$850,000.00 ",$570.00 ,0%,https://sydneysuburbreviews.com/wahroonga
+Beecroft,Hills Shire,2119,"English 23.1%, Australian 19.3%, Chinese 14.3%, Irish 8.2%, Scottish 6.8%","$1,700,000.00 ","$2,100,000.00 ",23.53%,$760.00 ,"$980,000.00 ",$500.00 ,0%,https://sydneysuburbreviews.com/beecroft
+Carlton,Southern Suburbs,2218,"Chinese 18.8%, English 10.9%, Australian 10.7%, Greek 6.8%, Macedonian 5.1%","$1,250,000.00 ","$1,400,000.00 ",12.00%,$590.00 ,"$655,000.00 ",$465.00 ,2%,https://sydneysuburbreviews.com/carlton
+Killara,Northern Suburbs,2071,"English 21.0%, Chinese 20.2%, Australian 16.7%, Irish 7.0%, Scottish 6.1%","$2,650,000.00 ","$2,950,000.00 ",11.32%,"$1,100.00 ","$890,000.00 ",$625.00 ,0,https://sydneysuburbreviews.com/killara
+Lindfield,North Shore,2070,"English 22.0%, Australian 18.3%, Chinese 17.1%, Irish 7.9%, Scottish 6.6%","$2,850,000.00 ","$3,150,000.00 ",10.53%,"$1,000.00 ","$1,000,000.00 ",$620.00 ,0%,https://sydneysuburbreviews.com/lindfield
+Wollstonecraft,Lower North Shore,2065,"English 23.3%, Australian 17.2%, Irish 9.7%, Chinese 8.5%, Scottish 7.5%","$2,600,000.00 ","$2,900,000.00 ",11.54%,"$1,225.00 ","$1,050,000.00 ",$615.00 ,2%,https://sydneysuburbreviews.com/wollstonecraft
+Drummoyne,Inner West,2047,"English 21.7%, Australian 17.6%, Irish 10.0%, Italian 7.3%, Scottish 6.7%","$1,950,000.00 ","$2,350,000.00 ",20.51%,$830.00 ,"$1,050,000.00 ",$610.00 ,1%,https://sydneysuburbreviews.com/drummoyne
+Epping,Northern Suburbs,2121,"Chinese 31.0%, English 13.5%, Australian 11.9%, Korean 7.9%, Indian 6.4%","$1,650,000.00 ","$1,900,000.00 ",15.15%,$700.00 ,"$790,000.00 ",$550.00 ,1%,https://sydneysuburbreviews.com/epping
+Gladesville,North Shore,2111,"English 20.4%, Australian 20.0%, Irish 9.2%, Chinese 7.1%, Italian 7.0%","$1,900,000.00 ","$2,300,000.00 ",21.05%,$725.00 ,"$700,000.00 ",$450.00 ,7%,https://sydneysuburbreviews.com/gladesville
+Haberfield,Inner West,2045,"Italian 24.0%, Australian 18.2%, English 17.8%, Irish 9.2%, Scottish 5.4%","$2,100,000.00 ","$2,350,000.00 ",11.90%,$800.00 ,,$450.00 ,2%,https://sydneysuburbreviews.com/haberfield
+Kirribilli,Lower North Shore,2061,"English 26.1%, Australian 15.1%, Irish 10.4%, Scottish 7.0%, Chinese 5.9%","$2,800,000.00 ","$3,400,000.00 ",21.43%,"$1,300.00 ","$1,400,000.00 ",$650.00 ,13%,https://sydneysuburbreviews.com/kirribilli
+Menai,Sutherland Shire,2234,"Australian 25.6%, English 25.0%, Irish 8.1%, Scottish 6.3%, Italian 4.0%","$1,000,000.00 ","$1,200,000.00 ",20.00%,$710.00 ,"$720,000.00 ",$550.00 ,4%,https://sydneysuburbreviews.com/menai
+Turramurra,North Shore,2074,"English 26.6%, Australian 20.1%, Chinese 9.3%, Irish 8.9%, Scottish 7.5%","$2,000,000.00 ","$2,400,000.00 ",20.00%,$920.00 ,"$860,000.00 ",$580.00 ,0%,https://sydneysuburbreviews.com/turramurra
+Manly,Northern Beaches,2095,"English 29.3%, Australian 16.6%, Irish 10.4%, Scottish 8.0%, German 3.8%","$2,900,000.00 ","$3,200,000.00 ",10.34%,"$1,450.00 ","$1,350,000.00 ",$750.00 ,3%,https://sydneysuburbreviews.com/manly
+Botany,Southern Suburbs,2019,"English 20.1%, Australian 20.0%, Irish 8.7%, Scottish 5.3%, Chinese 5.1%","$1,500,000.00 ","$1,700,000.00 ",13.33%,$780.00 ,"$790,000.00 ",$600.00 ,6%,https://sydneysuburbreviews.com/botany
+Caringbah,Sutherland Shire,2229,"English 27.6%, Australian 25.6%, Irish 9.8%, Scottish 6.5%, Italian 3.0%","$1,200,000.00 ","$1,500,000.00 ",25.00%,$700.00 ,"$690,000.00 ",$510.00 ,7%,https://sydneysuburbreviews.com/caringbah
+Denistone,North Shore,2114,"Chinese 20.1%, English 18.9%, Australian 16.1%, Irish 8.4%, Scottish 5.3%","$1,550,000.00 ","$2,000,000.00 ",29.03%,$720.00 ,"$980,000.00 ",$610.00 ,0%,https://sydneysuburbreviews.com/denistone/
+Double Bay,Eastern Suburbs,2028,"English 24.1%, Australian 15.8%, Irish 8.7%, Scottish 7.3%, Chinese 4.0%","$3,600,000.00 ","$4,200,000.00 ",16.67%,"$1,700.00 ","$1,300,000.00 ",$750.00 ,0%,https://sydneysuburbreviews.com/double-bay
+Eastwood,North Shore,2122,"Chinese 38.4%, English 11.2%, Australian 10.1%, Korean 8.2%, Irish 4.2%","$1,600,000.00 ","$1,950,000.00 ",21.88%,$690.00 ,"$750,000.00 ",$450.00 ,4%,https://sydneysuburbreviews.com/eastwood
+Kogarah,Southern Suburbs,2217,"Chinese 28.1%, English 8.9%, Australian 8.6%, Greek 6.3%, Nepalese 4.4%","$1,150,000.00 ","$1,400,000.00 ",21.74%,$600.00 ,"$620,000.00 ",$470.00 ,1%,https://sydneysuburbreviews.com/kogarah
+Lane Cove,Lower North Shore,2066,"English 23.4%, Australian 18.3%, Irish 9.2%, Chinese 8.2%, Scottish 6.6%","$2,250,000.00 ","$2,600,000.00 ",15.56%,$880.00 ,"$810,000.00 ",$550.00 ,1%,https://sydneysuburbreviews.com/lane-cove
+Miranda,Sutherland Shire,2228,"English 25.0%, Australian 22.7%, Irish 8.2%, Scottish 5.7%, Chinese 4.5%","$1,150,000.00 ","$1,400,000.00 ",21.74%,$715.00 ,"$650,000.00 ",$490.00 ,6%,https://sydneysuburbreviews.com/miranda
+Roseville,North Shore,2069,"English 23.2%, Australian 19.6%, Chinese 13.8%, Irish 8.7%, Scottish 6.9%","$2,500,000.00 ","$2,900,000.00 ",16.00%,"$1,100.00 ","$925,000.00 ",$605.00 ,0%,https://sydneysuburbreviews.com/roseville
+Sans Souci,Southern Suburbs,2219,"English 16.4%, Australian 16.2%, Greek 14.4%, Irish 6.2%, Italian 4.6%","$1,450,000.00 ","$1,700,000.00 ",17.24%,$690.00 ,"$760,000.00 ",$495.00 ,3%,https://sydneysuburbreviews.com/sans-souci
+Woolooware,Sutherland Shire,2230,"English 29.9%, Australian 27.3%, Irish 9.8%, Scottish 7.6%, Italian 3.0%","$1,700,000.00 ","$2,000,000.00 ",17.65%,$900.00 ,"$750,000.00 ",$540.00 ,0%,https://sydneysuburbreviews.com/woolooware/
+Milperra,Western Suburbs,2214,"Australian 28.5%, English 25.3%, Irish 9.4%, Scottish 5.8%, Lebanese 3.1%","$855,000.00 ","$975,000.00 ",14.04%,$560.00 ,,,0%,https://sydneysuburbreviews.com/milperra/
+Annandale,Inner West,2038,"English 24.9%, Australian 20.0%, Irish 10.8%, Scottish 7.5%, Italian 4.0%","$1,650,000.00 ","$1,900,000.00 ",15.15%,$800.00 ,"$850,000.00 ",$500.00 ,2%,https://sydneysuburbreviews.com/annandale
+Carlingford,Western Suburbs,2118,"Chinese 32.0%, English 13.2%, Australian 12.2%, Korean 5.6%, Irish 4.3%","$1,300,000.00 ","$1,600,000.00 ",23.08%,$610.00 ,"$700,000.00 ",$500.00 ,2%,https://sydneysuburbreviews.com/calingford
+Kingsgrove,Southern Suburbs,2208,"Greek 17.2%, Chinese 15.0%, Australian 10.7%, English 9.6%, Italian 6.7%","$1,200,000.00 ","$1,500,000.00 ",25.00%,$610.00 ,"$620,000.00 ",$470.00 ,6%,https://sydneysuburbreviews.com/kingsgrove
+Lidcombe,Western Suburbs,2141,"Chinese 23.1%, Korean 16.0%, English 5.8%, Australian 5.7%, Vietnamese 4.3%","$1,000,000.00 ","$1,250,000.00 ",25.00%,$555.00 ,"$675,000.00 ",$510.00 ,3%,https://sydneysuburbreviews.com/lidcombe
+Lilyfield,Inner West,2040,"English 24.7%, Australian 20.8%, Irish 11.0%, Scottish 7.3%, Italian 5.6%","$1,700,000.00 ","$2,000,000.00 ",17.65%,$835.00 ,"$930,000.00 ",$530.00 ,11%,https://sydneysuburbreviews.com/lilyfield
+Randwick,Eastern Suburbs,2031,"English 21.3%, Australian 15.3%, Irish 12.4%, Scottish 6.2%, Chinese 6.0%","$2,550,000.00 ","$2,950,000.00 ",15.69%,$950.00 ,"$960,000.00 ",$600.00 ,1%,https://sydneysuburbreviews.com/randwick
+Rozelle,Inner West,2039,"English 26.6%, Australian 18.7%, Irish 11.4%, Scottish 7.9%, Chinese 3.0%","$1,700,000.00 ","$2,000,000.00 ",17.65%,$815.00 ,"$1,150,000.00 ",$595.00 ,2%,https://sydneysuburbreviews.com/rozelle
+Waitara,Upper North Shore,2077,"Chinese 20.0%, English 12.3%, Indian 10.7%, Australian 9.1%, Iranian 5.0%","$1,500,000.00 ","$1,800,000.00 ",20.00%,$690.00 ,"$670,000.00 ",$480.00 ,3%,https://sydneysuburbreviews.com/waitara
+Balmain,Inner West,2041,"English 23.4%, Australian 17.3%, Irish 7.8%, Scottish 6.0%, Chinese 3.3%","$1,900,000.00 ","$2,200,000.00 ",15.79%,$890.00 ,"$1,000,000.00 ",$650.00 ,6%,https://sydneysuburbreviews.com/balmain
+Bangor,Sutherland Shire,2234,"Australian 27.9%, English 27.5%, Irish 9.7%, Scottish 7.5%, Italian 3.4%","$1,000,000.00 ","$1,250,000.00 ",25.00%,$700.00 ,"$830,000.00 ",$630.00 ,7%,
+Bexley,Southern Suburbs,2207,"Chinese 11.1%, Australian 10.9%, English 10.7%, Lebanese 9.1%, Greek 7.6%","$1,100,000.00 ","$1,400,000.00 ",27.27%,$610.00 ,"$640,000.00 ",$460.00 ,1%,https://sydneysuburbreviews.com/bexley
+Blakehurst,Southern Suburbs,2221,"Chinese 14.7%, English 14.1%, Greek 13.9%, Australian 13.8%, Irish 5.6%","$1,600,000.00 ","$1,800,000.00 ",12.50%,$770.00 ,"$805,000.00 ",$460.00 ,1%,https://sydneysuburbreviews.com/blakehurst
+Canterbury,Western Suburbs,2193,"Chinese 13.3%, English 10.6%, Australian 10.5%, Greek 7.7%, Irish 4.7%","$1,300,000.00 ","$1,500,000.00 ",15.38%,$600.00 ,"$650,000.00 ",$500.00 ,1%,https://sydneysuburbreviews.com/canterbury
+Castle Hill,Hills Shire,2154,"English 20.0%, Australian 17.2%, Chinese 12.1%, Irish 6.7%, Scottish 5.3%","$1,500,000.00 ","$1,750,000.00 ",16.67%,$690.00 ,"$845,000.00 ",$550.00 ,0%,https://sydneysuburbreviews.com/castle-hill
+Kensington,Eastern Suburbs,2033,"Chinese 21.2%, English 14.2%, Australian 12.5%, Irish 7.5%, Scottish 3.9%","$2,650,000.00 ","$3,000,000.00 ",13.21%,$920.00 ,"$850,000.00 ",$585.00 ,2%,https://sydneysuburbreviews.com/kensington/
+Mortdale,Southern Suburbs,2223,"English 18.1%, Australian 16.4%, Chinese 13.6%, Irish 6.7%, Scottish 4.4%","$1,150,000.00 ","$1,300,000.00 ",13.04%,$600.00 ,"$595,000.00 ",$420.00 ,1%,https://sydneysuburbreviews.com/mortdale
+Revesby,Western Suburbs,2212,"Australian 17.0%, English 15.3%, Chinese 9.9%, Lebanese 6.8%, Irish 5.1%","$940,000.00 ","$1,100,000.00 ",17.02%,$590.00 ,"$715,000.00 ",$475.00 ,11%,https://sydneysuburbreviews.com/revesby
+Ryde,Northern Suburbs,2112,"Chinese 15.5%, English 14.7%, Australian 13.4%, Italian 6.9%, Irish 5.5%","$1,450,000.00 ","$1,750,000.00 ",20.69%,$675.00 ,"$670,000.00 ",$490.00 ,4%,https://sydneysuburbreviews.com/ryde
+Sutherland,Sutherland Shire,2232,"English 25.3%, Australian 24.3%, Irish 8.8%, Scottish 6.6%, Chinese 3.6%","$1,000,000.00 ","$1,200,000.00 ",20.00%,$580.00 ,"$600,000.00 ",$460.00 ,5%,https://sydneysuburbreviews.com/sutherland
+Hurstville,Southern Suburbs,2220,"Chinese 49.4%, English 6.6%, Nepalese 6.6%, Australian 5.1%, Greek 2.9%","$1,400,000.00 ","$1,600,000.00 ",14.29%,$590.00 ,"$680,000.00 ",$520.00 ,3%,https://sydneysuburbreviews.com/hurstville
+Riverwood,Western Suburbs,2210,"Chinese 27.2%, English 10.5%, Australian 10.2%, Lebanese 5.4%, Irish 3.1%","$890,000.00 ","$1,100,000.00 ",23.60%,$530.00 ,"$580,000.00 ",$470.00 ,29%,https://sydneysuburbreviews.com/riverwood
+Rushcutters Bay,Eastern Suburbs,2011,"English 23.8%, Australian 13.1%, Irish 10.1%, Scottish 7.1%, Chinese 3.3%","$2,600,000.00 ","$3,000,000.00 ",15.38%,,"$865,000.00 ",$550.00 ,0%,https://sydneysuburbreviews.com/rushcutters-bay
+Allawah,Southern Suburbs,2218,"Chinese 29.5%, Australian 8.8%, English 8.0%, Nepalese 6.2%, Irish 3.2%","$1,200,000.00 ","$1,350,000.00 ",12.50%,$580.00 ,"$650,000.00 ",$430.00 ,2%,https://sydneysuburbreviews.com/allawah
+Edgecliff,Eastern Suburbs,2027,"English 24.9%, Australian 15.0%, Irish 10.7%, Scottish 8.1%, Chinese 3.2%","$2,000,000.00 ","$2,400,000.00 ",20.00%,$910.00 ,"$1,125,000.00 ",$600.00 ,0%,https://sydneysuburbreviews.com/edgecliff
+Five Dock,Inner West,2046,"Italian 18.9%, Australian 16.1%, English 15.8%, Irish 7.7%, Chinese 5.8%","$1,700,000.00 ","$2,000,000.00 ",17.65%,$760.00 ,"$845,000.00 ",$590.00 ,5%,https://sydneysuburbreviews.com/five-dock
+Leichhardt,Inner West,2040,"English 23.1%, Australian 18.3%, Irish 10.6%, Italian 7.2%, Scottish 6.9%","$1,450,000.00 ","$1,800,000.00 ",24.14%,$770.00 ,"$875,000.00 ",$560.00 ,3%,https://sydneysuburbreviews.com/leichhardt
+Lewisham,Inner West,2049,"English 22.3%, Australian 18.7%, Irish 10.9%, Scottish 7.0%, Chinese 4.2%","$1,400,000.00 ","$1,700,000.00 ",21.43%,$760.00 ,"$775,000.00 ",$510.00 ,1%,https://sydneysuburbreviews.com/lewisham
+Meadowbank,North Shore,2114,"Chinese 20.8%, English 12.0%, Australian 10.2%, Korean 8.9%, Indian 8.8%","$1,480,000.00 ","$1,650,000.00 ",11.49%,,"$660,000.00 ",$480.00 ,0%,https://sydneysuburbreviews.com/meadowbank
+Erskineville,Inner South,2043,"English 24.6%, Australian 17.0%, Irish 10.9%, Scottish 5.9%, Chinese 5.0%","$1,400,000.00 ","$1,650,000.00 ",17.86%,$790.00 ,"$890,000.00 ",$650.00 ,4%,https://sydneysuburbreviews.com/erskineville
+Homebush,Inner West,2140,"Chinese 16.8%, Indian 15.7%, Korean 9.0%, English 8.4%, Australian 7.0%","$1,700,000.00 ","$2,000,000.00 ",17.65%,$640.00 ,"$650,000.00 ",$520.00 ,2%,https://sydneysuburbreviews.com/homebush
+Marrickville,Inner West,2204,"English 18.1%, Australian 15.3%, Irish 8.8%, Greek 6.6%, Scottish 5.6%","$1,400,000.00 ","$1,700,000.00 ",21.43%,$750.00 ,"$740,000.00 ",$500.00 ,5%,https://sydneysuburbreviews.com/marrickville
+Neutral Bay,Lower North Shore,2089,"English 25.2%, Australian 15.5%, Irish 9.5%, Scottish 8.1%, Chinese 5.4%","$2,550,000.00 ","$2,850,000.00 ",11.76%,"$1,000.00 ","$940,000.00 ",$590.00 ,0%,https://sydneysuburbreviews.com/neutral-bay
+Rosebery,Inner South,2018,"Chinese 15.8%, English 12.8%, Australian 11.7%, Greek 8.3%, Irish 6.7%","$1,650,000.00 ","$1,850,000.00 ",12.12%,$825.00 ,"$860,000.00 ",$665.00 ,3%,https://sydneysuburbreviews.com/rosebery
+Wentworthville,Western Suburbs,2145,"Indian 26.0%, English 9.7%, Australian 9.4%, Chinese 7.1%, Lebanese 3.8%","$950,000.00 ","$1,150,000.00 ",21.05%,$480.00 ,"$530,000.00 ",$430.00 ,7%,https://sydneysuburbreviews.com/wentworthville
+Earlwood,Inner West,2206,"Greek 18.0%, Australian 12.5%, English 12.1%, Italian 7.2%, Lebanese 5.9%","$1,400,000.00 ","$1,700,000.00 ",21.43%,$690.00 ,"$775,000.00 ",$515.00 ,1%,https://sydneysuburbreviews.com/earlwood
+Peakhurst,Southern Suburbs,2210,"Australian 18.9%, English 17.9%, Chinese 11.4%, Irish 6.5%, Greek 4.8%","$970,000.00 ","$1,250,000.00 ",28.87%,$630.00 ,"$700,000.00 ",$505.00 ,8%,https://sydneysuburbreviews.com/peakhurst
+Surry Hills,Inner East,2010,"English 20.9%, Australian 12.0%, Irish 9.1%, Chinese 7.0%, Scottish 5.9%","$1,750,000.00 ","$2,000,000.00 ",14.29%,$910.00 ,"$810,000.00 ",$620.00 ,11%,https://sydneysuburbreviews.com/surry-hills
+Wolli Creek,Southern Suburbs,2205,"Chinese 31.1%, English 8.4%, Australian 6.3%, Mongolian 4.2%, Indian 3.1%","$890,000.00 ",-,#VALUE!,,"$725,000.00 ",$610.00 ,2%,https://sydneysuburbreviews.com/wolli-creek
+North Sydney,Lower North Shore,2060,"English 22.7%, Australian 14.3%, Irish 9.3%, Chinese 7.4%, Scottish 6.5%","$2,150,000.00 ","$2,700,000.00 ",25.58%,$950.00 ,"$880,000.00 ",$640.00 ,1%,https://sydneysuburbreviews.com/north-sydney
+Paddington,Inner East,2021,"English 27.4%, Australian 17.5%, Irish 11.8%, Scottish 8.3%, German 3.0%","$2,400,000.00 ","$3,000,000.00 ",25.00%,"$1,150.00 ","$860,000.00 ",$525.00 ,1%,https://sydneysuburbreviews.com/paddington
+Pyrmont,Sydney City,2009,"English 16.0%, Chinese 14.6%, Australian 11.2%, Irish 6.3%, Scottish 4.5%","$1,550,000.00 ","$2,000,000.00 ",29.03%,$800.00 ,"$1,000,000.00 ",$730.00 ,5%,https://sydneysuburbreviews.com/pyrmont
+Rockdale,Southern Suburbs,2216,"Chinese 13.9%, Nepalese 11.7%, English 7.9%, Australian 7.1%, Macedonian 5.4%","$1,150,000.00 ","$1,350,000.00 ",17.39%,$625.00 ,"$625,000.00 ",$510.00 ,2%,https://sydneysuburbreviews.com/rockdale
+Chatswood,North Shore,2067,"Chinese 34.1%, English 12.0%, Australian 9.1%, Korean 6.5%, Irish 4.4%","$2,200,000.00 ","$2,550,000.00 ",15.91%,$925.00 ,"$1,000,000.00 ",$615.00 ,1%,https://sydneysuburbreviews.com/chatswood
+Crows Nest,Lower North Shore,2065,"English 23.0%, Australian 17.5%, Irish 9.8%, Scottish 6.8%, Chinese 5.9%","$2,000,000.00 ","$2,400,000.00 ",20.00%,$975.00 ,"$915,000.00 ",$560.00 ,1%,https://sydneysuburbreviews.com/crows-nest
+Macquarie Park,North Shore,2113,"Chinese 20.8%, English 12.6%, Australian 10.2%, Indian 9.4%, Irish 7.5%",-,-,#VALUE!,,"$830,000.00 ",$530.00 ,10%,https://sydneysuburbreviews.com/macquarie-park
+Petersham,Inner West,2049,"English 22.4%, Australian 17.7%, Irish 11.1%, Scottish 7.1%, Italian 3.8%","$1,500,000.00 ","$1,800,000.00 ",20.00%,$760.00 ,"$750,000.00 ",$460.00 ,3%,https://sydneysuburbreviews.com/petersham
+Rhodes,Inner West,2138,"Chinese 44.5%, Korean 11.1%, English 7.1%, Indian 5.1%, Australian 4.3%","$2,500,000.00 ",,-100.00%,$645.00 ,"$850,000.00 ",$630.00 ,1%,https://sydneysuburbreviews.com/rhodes
+Ashfield,Inner West,2131,"Chinese 19.0%, English 12.7%, Australian 10.6%, Nepalese 6.0%, Irish 5.9%","$1,500,000.00 ","$1,750,000.00 ",16.67%,$650.00 ,"$680,000.00 ",$480.00 ,1%,https://sydneysuburbreviews.com/ashfield
+McMahons Point,Lower North Shore,2060,"English 28.4%, Australian 15.8%, Irish 11.4%, Scottish 8.7%, Chinese 3.8%","$4,200,000.00 ",,-100.00%,"$1,000.00 ","$1,300,000.00 ",$600.00 ,0%,
+Mosman,North Shore,2088,"English 28.5%, Australian 18.3%, Irish 10.5%, Scottish 5.9%, Chinese 5.2%","$3,550,000.00 ","$4,200,000.00 ",18.31%,"$1,650.00 ","$1,050,000.00 ",$590.00 ,0%,https://sydneysuburbreviews.com/mosman
+Newtown,Inner West,2042,"English 23.7%, Australian 16.8%, Irish 11.2%, Scottish 7.5%, Chinese 4.7%","$1,400,000.00 ","$1,750,000.00 ",25.00%,$795.00 ,"$690,000.00 ",$490.00 ,4%,https://sydneysuburbreviews.com/newtown
+Strathfield,Inner West,2135,"Chinese 19.6%, Indian 10.0%, Korean 9.9%, English 7.4%, Australian 6.9%","$2,400,000.00 ","$2,800,000.00 ",16.67%,$750.00 ,"$700,000.00 ",$535.00 ,2%,https://sydneysuburbreviews.com/strathfield
+Camperdown,Inner West,2050,"English 21.0%, Australian 15.8%, Chinese 11.5%, Irish 9.9%, Scottish 6.9%","$1,350,000.00 ","$1,800,000.00 ",33.33%,$785.00 ,"$760,000.00 ",$620.00 ,4%,https://sydneysuburbreviews.com/camperdown
+Campsie,Western Suburbs,2194,"Chinese 31.0%, Nepalese 6.9%, Lebanese 5.8%, English 5.5%, Australian 5.2%","$1,100,000.00 ","$1,400,000.00 ",27.27%,$590.00 ,"$570,000.00 ",$435.00 ,3%,https://sydneysuburbreviews.com/campsie
+Chippendale,Sydney City,2008,"Chinese 33.1%, English 10.9%, Australian 6.6%, Irish 4.1%, Scottish 3.1%","$1,450,000.00 ","$1,600,000.00 ",10.34%,$950.00 ,"$745,000.00 ",$650.00 ,6%,https://sydneysuburbreviews.com/chippendale
+Kingsford,Eastern Suburbs,2032,"Chinese 29.6%, English 11.3%, Australian 10.2%, Greek 6.8%, Irish 5.9%","$2,100,000.00 ","$2,500,000.00 ",19.05%,$925.00 ,"$835,000.00 ",$570.00 ,2%,https://sydneysuburbreviews.com/kingsford
+St Peters,Inner West,2044,"English 23.4%, Australian 17.5%, Irish 10.5%, Scottish 6.5%, Chinese 4.2%","$1,250,000.00 ","$1,550,000.00 ",24.00%,$770.00 ,"$870,000.00 ",$650.00 ,0%,https://sydneysuburbreviews.com/st-peters
+Stanmore,Inner West,2048,"English 21.8%, Australian 17.9%, Irish 11.2%, Scottish 7.6%, Italian 4.3%","$1,550,000.00 ","$1,900,000.00 ",22.58%,$855.00 ,"$755,000.00 ",$490.00 ,2%,https://sydneysuburbreviews.com/stanmore
+Burwood,Inner West,2134,"Chinese 45.1%, English 7.0%, Australian 5.3%, Indian 3.9%, Korean 3.7%","$1,900,000.00 ","$2,150,000.00 ",13.16%,$700.00 ,"$790,000.00 ",$580.00 ,3%,https://sydneysuburbreviews.com/burwood
+Roselands,Western Suburbs,2196,"Greek 12.4%, Lebanese 12.3%, Australian 11.3%, English 9.3%, Chinese 7.3%","$975,000.00 ","$1,150,000.00 ",17.95%,$580.00 ,"$470,000.00 ",$390.00 ,5%,https://sydneysuburbreviews.com/roselands
+Glebe,Inner West,2037,"English 22.0%, Australian 16.0%, Irish 10.4%, Scottish 7.0%, Chinese 5.9%","$1,700,000.00 ","$1,850,000.00 ",8.82%,$875.00 ,"$810,000.00 ",$570.00 ,19%,https://sydneysuburbreviews.com/glebe
+Redfern,Inner East,2016,"English 20.8%, Australian 14.1%, Irish 9.5%, Chinese 7.2%,Scottish 6.3%","$1,400,000.00 ","$1,800,000.00 ",28.57%,$850.00 ,"$970,000.00 ",$640.00 ,21%,https://sydneysuburbreviews.com/redfern
+St Leonards,Lower North Shore,2065,"Chinese 19.3%, English 15.1%, Australian 9.9%, Indian 6.1%, Irish 6.0%","$2,300,000.00 ","$2,700,000.00 ",17.39%,$840.00 ,"$1,050,000.00 ",$650.00 ,0%,https://sydneysuburbreviews.com/st-leonards
+Zetland,Inner East,2017,"Chinese 33.8%, English 13.1%, Australian 8.1%, Irish 6.2%, Scottish 3.6%","$1,400,000.00 ","$1,750,000.00 ",25.00%,$975.00 ,"$920,000.00 ",$740.00 ,1%,https://sydneysuburbreviews.com/zetland
+Darlinghurst,Sydney City,2010,"English 22.4%, Australian 12.4%, Irish 9.6%, Scottish 7.0%, Chinese 4.0%","$1,850,000.00 ","$2,200,000.00 ",18.92%,$950.00 ,"$975,000.00 ",$590.00 ,3%,https://sydneysuburbreviews.com/darlinghurst
+Mascot,Southern Suburbs,2020,"Chinese 18.1%, English 13.0%, Australian 11.7%, Irish 5.5%, Greek 4.3%","$1,250,000.00 ","$1,600,000.00 ",28.00%,$710.00 ,"$815,000.00 ",$690.00 ,2%,https://sydneysuburbreviews.com/mascot
+Bankstown,Western Suburbs,2200,"Vietnamese 16.3%, Lebanese 12.7%, Chinese 9.5%, Australian 6.8%, English 5.6%","$890,000.00 ","$1,050,000.00 ",17.98%,$525.00 ,"$490,000.00 ",$420.00 ,8%,
+Ultimo,Sydney City,2007,"Chinese 36.6%, English 8.4%, Australian 5.8%, Thai 4.3%, Korean 3.3%","$1,350,000.00 ","$1,700,000.00 ",25.93%,$750.00 ,"$665,000.00 ",$605.00 ,5%,https://sydneysuburbreviews.com/ultimo
+Waterloo,Inner South,2017,"English 16.8%, Chinese 15.7%, Australian 10.9%, Irish 7.6%, Scottish 4.5%","$1,100,000.00 ","$1,450,000.00 ",31.82%,$780.00 ,"$845,000.00 ",$700.00 ,36%,https://sydneysuburbreviews.com/waterloo
+Alexandria,Inner South,2015,"English 22.6%, Australian 17.5%, Irish 10.8%, Scottish 6.9%, Chinese 5.8%","$1,600,000.00 ","$1,850,000.00 ",15.63%,$850.00 ,"$745,000.00 ",$625.00 ,1%,https://sydneysuburbreviews.com/alexandria/
+Arncliffe,Southern Suburbs,2205,"Lebanese 12.6%, Australian 11.5%, English 11.1%, Chinese 10.8%, Macedonian 4.8%","$1,100,000.00 ","$1,350,000.00 ",22.73%,$650.00 ,"$670,000.00 ",$550.00 ,6%,https://sydneysuburbreviews.com/arncliffe
+Blacktown,Western Suburbs,2148,"Australian 14.5%, English 13.7%, Indian 12.8%, Filipino 5.6%, Chinese 4.1%","$680,000.00 ","$800,000.00 ",17.65%,$410.00 ,"$450,000.00 ",$390.00 ,5%,
+Auburn,Western Suburbs,2144,"Chinese 18.2%, Turkish 8.0%, Lebanese 7.3%, Nepalese 6.1%, Indian 5.7%","$825,000.00 ","$950,000.00 ",15.15%,$500.00 ,"$575,000.00 ",$440.00 ,4%,
+Baulkham Hills,Hills Shire,2153,"English 19.4%, Australian 19.2%, Chinese 11.6%, Irish 6.7%, Indian 5.8%","$1,200,000.00 ","$1,400,000.00 ",16.67%,$590.00 ,"$730,000.00 ",$510.00 ,1%,
+Maroubra,Eastern Suburbs,2035,"English 16.4%, Australian 14.5%, Chinese 12.7%, Irish 8.3%, Greek 5.4%","$1,900,000.00 ","$2,300,000.00 ",21.05%,$910.00 ,"$850,000.00 ",$610.00 ,10%,
+Merrylands,Western Suburbs,2160,"Lebanese 17.5%, Australian 10.1%, English 8.5%, Chinese 8.0%, Indian 4.2%","$830,000.00 ","$930,000.00 ",12.05%,$500.00 ,"$460,000.00 ",$400.00 ,7%,
+Kellyville,Hills Shire,2155,"English 19.5%, Australian 18.3%, Chinese 8.1%, Irish 5.9%, Indian 5.9%","$1,200,000.00 ","$1,450,000.00 ",20.83%,$650.00 ,"$790,000.00 ",$525.00 ,0%,
+Liverpool,Western Suburbs,2170,"Indian 8.4%, Australian 7.9%, English 7.0%, Iraqi 6.5%, Serbian 6.3%","$720,000.00 ","$810,000.00 ",12.50%,$440.00 ,"$425,000.00 ",$375.00 ,8%,
+Quakers Hill,Western Suburbs,2763,"Australian 19.0%, English 18.0%, Indian 11.0%, Filipino 6.3%, Irish 5.2%","$775,000.00 ","$910,000.00 ",17.42%,$465.00 ,"$575,000.00 ",$440.00 ,4%,
+Parramatta,Western Suburbs,2150,"Indian 26.9%, Chinese 16.3%, English 7.7%, Australian 6.5%, Filipino 2.4%","$1,150,000.00 ","$1,300,000.00 ",13.04%,$510.00 ,"$605,000.00 ",$470.00 ,4%,
+Greenacre,Western Suburbs,2190,"Lebanese 30.7%, Australian 10.4%, English 7.1%, Italian 4.0%, Chinese 3.4%","$910,000.00 ","$1,100,000.00 ",20.88%,$580.00 ,"$590,000.00 ",$445.00 ,12%,
+Greystanes,Western Suburbs,2145,"Australian 18.5%, English 14.9%, Lebanese 9.9%, Maltese 5.6%, Irish 5.6%","$820,000.00 ","$950,000.00 ",15.85%,$500.00 ,"$640,000.00 ",$430.00 ,2%,
+Guildford,Western Suburbs,2161,"Lebanese 23.6%, Australian 11.0%, English 8.6%, Chinese 6.3%, Afghan 2.7%","$755,000.00 ","$900,000.00 ",19.21%,$490.00 ,"$440,000.00 ",$390.00 ,12%,
+Bondi,Eastern Suburbs,2026,"English 20.5%, Australian 13.9%, Irish 8.8%, Scottish 5.2%, Italian 4.6%","$2,600,000.00 ","$3,000,000.00 ",15.38%,"$1,275.00 ","$1,100,000.00 ",$720.00 ,3%,
+Cabramatta,Western Suburbs,2166,"Vietnamese 33.0%, Chinese 24.5%, Khmer (Cambodian) 8.2%, English 4.7%, Australian 3.9%","$850,000.00 ","$1,000,000.00 ",17.65%,$420.00 ,"$400,000.00 ",$340.00 ,4%,
+Dee Why,Northern Beaches,2099,"English 23.0%, Australian 17.2%, Irish 7.1%, Scottish 5.8%, Italian 3.9%","$1,900,000.00 ","$2,500,000.00 ",31.58%,$825.00 ,"$775,000.00 ",$560.00 ,2%,
+Punchbowl,Western Suburbs,2196,"Lebanese 26.2%, Australian 8.8%, English 6.1%, Vietnamese 6.0%, Chinese 5.7%","$830,000.00 ","$970,000.00 ",16.87%,$530.00 ,"$430,000.00 ",$375.00 ,7%,
+St Clair,Western Suburbs,2759,"Australian 24.4%, English 21.1%, Irish 6.4%, Scottish 5.1%, Filipino 3.7%","$675,000.00 ","$775,000.00 ",14.81%,$445.00 ,"$590,000.00 ",$330.00 ,1%,
+Seven Hills,Hills Shire,2147,"Australian 18.2%, English 18.1%, Indian 8.3%, Irish 5.7%, Chinese 4.4%","$740,000.00 ","$900,000.00 ",21.62%,$425.00 ,"$580,000.00 ",$405.00 ,11%,
+Cherrybrook,Hills Shire,2126,"English 18.7%, Chinese 15.8%, Australian 14.7%, Indian 8.0%, Irish 6.1%","$1,500,000.00 ","$1,800,000.00 ",20.00%,$750.00 ,"$1,000,000.00 ",$610.00 ,0%,
+Fairfield,Western Suburbs,2165,"Assyrian 11.9%, Vietnamese 9.4%, Chinese 8.8%, Iraqi 7.9%, Australian 6.1%","$700,000.00 ","$875,000.00 ",25.00%,$450.00 ,"$395,000.00 ",$360.00 ,8%,
+Yagoona,Western Suburbs,2199,"Lebanese 20.0%, Vietnamese 13.4%, Australian 11.1%, English 9.1%, Chinese 5.7%","$810,000.00 ","$950,000.00 ",17.28%,$500.00 ,"$515,000.00 ",$425.00 ,10%,
+St Ives,Upper North Shore,2075,"English 24.0%, Australian 16.1%, Chinese 11.7%, Scottish 6.5%, Irish 6.3%","$1,900,000.00 ","$2,300,000.00 ",21.05%,"$1,050.00 ","$915,000.00 ",$635.00 ,0%,
+Lakemba,Western Suburbs,2195,"Bangladeshi 12.9%, Lebanese 7.7%, Australian 6.7%, Indian 6.6%, Pakistani 6.0%","$875,000.00 ","$1,000,000.00 ",14.29%,$510.00 ,"$380,000.00 ",$360.00 ,2%,
+Mount Druitt,Western Suburbs,2770,"Australian 11.9%, Filipino 11.9%, English 10.2%, Indian 6.9%, Pakistani 5.5%","$655,000.00 ","$775,000.00 ",18.32%,$395.00 ,"$395,000.00 ",$340.00 ,2%,
+Westmead,Western Suburbs,2145,"Indian 37.1%, Chinese 7.6%, English 6.6%, Australian 5.9%, Sri Lankan 2.4%","$1,100,000.00 ","$1,500,000.00 ",36.36%,$485.00 ,"$565,000.00 ",$445.00 ,8%,
+Glenwood,Hills Shire,2768,"Australian 15.4%, Indian 15.4%, English 13.7%, Chinese 5.6%, Filipino 5.5%","$990,000.00 ","$1,200,000.00 ",21.21%,$600.00 ,,,0%,
+Cranebrook,Western Suburbs,2749,"Australian 30.5%, English 27.6%, Irish 8.0%, Scottish 5.7%, Maltese 3.3%","$625,000.00 ","$750,000.00 ",20.00%,$450.00 ,"$515,000.00 ",$390.00 ,9%,
+Casula,Western Suburbs,2170,"Australian 11.8%, English 10.9%, Lebanese 6.6%, Italian 5.9%, Indian 5.7%","$750,000.00 ","$900,000.00 ",20.00%,$490.00 ,"$580,000.00 ",$450.00 ,6%,
+Coogee,Eastern Suburbs,2034,"English 22.6%, Australian 16.3%, Irish 11.8%, Scottish 6.3%, Chinese 3.9%","$2,600,000.00 ","$3,200,000.00 ",23.08%,"$1,250.00 ","$1,200,000.00 ",$690.00 ,1%,
+Granville,Western Suburbs,2142,"Chinese 11.0%, Lebanese 10.7%, Indian 10.1%, English 7.9%, Australian 7.3%","$730,000.00 ","$875,000.00 ",19.86%,$490.00 ,"$435,000.00 ",$415.00 ,8%,
+Prestons,Western Suburbs,2170,"Australian 12.0%, Indian 9.6%, English 9.4%, Italian 4.4%, Lebanese 4.3%","$735,000.00 ","$850,000.00 ",15.65%,$550.00 ,,$450.00 ,1%,
+Ingleburn,South West,2565,"Australian 18.9%, English 18.3%, Indian 6.1%, Irish 5.4%, Scottish 4.4%","$645,000.00 ","$750,000.00 ",16.28%,$415.00 ,"$410,000.00 ",$365.00 ,6%,
+Rooty Hill,Western Suburbs,2766,"Filipino 18.2%, Australian 13.2%, English 12.2%, Indian 6.9%, Chinese 3.3%","$660,000.00 ","$750,000.00 ",13.64%,$430.00 ,"$570,000.00 ",$435.00 ,4%,
+Toongabbie,Western Suburbs,2146,"Australian 16.1%, English 14.7%, Indian 14.4%, Chinese 5.5%, Irish 4.9%","$810,000.00 ","$1,000,000.00 ",23.46%,$450.00 ,"$550,000.00 ",$440.00 ,5%,
+Macquarie Fields,South West,2564,"Australian 18.7%, English 16.8%, Indian 6.5%, Bangladeshi 4.2%, Irish 4.0%","$575,000.00 ","$700,000.00 ",21.74%,$390.00 ,"$430,000.00 ",$360.00 ,24%,
+Doonside,Western Suburbs,2767,"Australian 18.2%, English 15.4%, Filipino 9.2%, Indian 6.2%, Irish 4.0%","$630,000.00 ","$730,000.00 ",15.87%,$400.00 ,"$530,000.00 ",$360.00 ,24%,
+Frenchs Forest,Northern Beaches,2086,"English 28.2%, Australian 24.1%, Irish 9.1%, Scottish 7.4%, Chinese 3.8%","$1,550,000.00 ","$1,850,000.00 ",19.35%,$900.00 ,,$520.00 ,0%,
+Marsfield,North Shore,2122,"Chinese 28.7%, English 13.5%, Australian 12.1%, Irish 4.8%, Italian 4.0%","$1,650,000.00 ","$1,950,000.00 ",18.18%,$715.00 ,"$800,000.00 ",$510.00 ,3%,
+Penrith,Western Suburbs,2750,"English 25.5%, Australian 24.5%, Irish 8.6%, Scottish 6.4%, German 2.5%","$630,000.00 ","$750,000.00 ",19.05%,$410.00 ,"$450,000.00 ",$380.00 ,11%,
+West Ryde,North Shore,2114,"Chinese 19.4%, English 12.9%, Australian 12.4%, Korean 7.0%, Indian 6.2%","$1,500,000.00 ","$1,750,000.00 ",16.67%,$610.00 ,"$630,000.00 ",$410.00 ,4%,
+Belmore,Western Suburbs,2192,"Greek 13.4%, Lebanese 9.5%, Chinese 8.7%, Australian 8.1%, English 8.0%","$1,000,000.00 ","$1,300,000.00 ",30.00%,$575.00 ,"$540,000.00 ",$390.00 ,5%,
+Campbelltown,Western Suburbs,2560,"English 22.7%, Australian 22.1%, Irish 6.8%, Scottish 5.3%, Indian 2.5%","$560,000.00 ","$650,000.00 ",16.07%,$400.00 ,"$430,000.00 ",$380.00 ,8%,
+Chester Hill,Western Suburbs,2162,"Lebanese 16.6%, Australian 12.6%, English 10.4%, Vietnamese 10.0%, Chinese 9.9%","$790,000.00 ","$900,000.00 ",13.92%,$500.00 ,"$545,000.00 ",$415.00 ,16%,
+Minto,South West,2566,"Australian 16.4%, English 14.7%, Indian 7.1%, Bangladeshi 6.2%, Irish 4.6%","$610,000.00 ","$720,000.00 ",18.03%,$415.00 ,"$420,000.00 ",$340.00 ,14%,
+Smithfield,Western Suburbs,2164,"Australian 11.4%, English 9.3%, Italian 7.8%, Vietnamese 7.1%, Assyrian 7.0%","$710,000.00 ","$840,000.00 ",18.31%,$450.00 ,"$600,000.00 ",$380.00 ,9%,
+St Marys,Western Suburbs,2760,"Australian 20.4%, English 20.0%, Irish 5.8%, Scottish 4.7%, Filipino 4.0%","$585,000.00 ","$720,000.00 ",23.08%,$370.00 ,"$445,000.00 ",$360.00 ,8%,
+"Ponds, The",Hills Shire,2769,"Indian 17.8%, Australian 14.7%, English 13.4%, Chinese 5.1%, Filipino 5.1%","$975,000.00 ","$1,200,000.00 ",23.08%,$630.00 ,"$770,000.00 ",$450.00 ,0%,
+Condell Park,Western Suburbs,2200,"Lebanese 22.8%, Vietnamese 11.6%, Australian 11.3%, English 8.6%, Greek 4.6%","$875,000.00 ","$1,050,000.00 ",20.00%,$600.00 ,"$655,000.00 ",$530.00 ,3%,
+Mount Annan,South West,2567,"Australian 27.7%, English 25.7%, Irish 7.6%, Scottish 6.3%, Italian 3.2%","$740,000.00 ","$825,000.00 ",11.49%,$480.00 ,,$350.00 ,1%,
+Winston Hills,Western Suburbs,2153,"Australian 23.1%, English 21.2%, Irish 8.0%, Scottish 6.0%, Chinese 5.4%","$975,000.00 ","$1,250,000.00 ",28.21%,$555.00 ,"$610,000.00 ",$490.00 ,0%,
+Cremorne,Lower North Shore,2090,"English 25.8%, Australian 16.6%, Irish 10.2%, Scottish 7.4%, Chinese 5.2%","$2,550,000.00 ","$3,200,000.00 ",25.49%,"$1,160.00 ","$1,100,000.00 ",$625.00 ,1%,
+Hinchinbrook,Western Suburbs,2168,"Australian 10.6%, English 8.6%, Vietnamese 6.6%, Italian 5.8%, Indian 5.3%","$720,000.00 ","$840,000.00 ",16.67%,$490.00 ,,$400.00 ,2%,
+Northmead,Western Suburbs,2152,"English 20.0%, Australian 19.0%, Irish 7.3%, Chinese 6.0%, Scottish 5.2%","$970,000.00 ","$1,200,000.00 ",23.71%,$505.00 ,"$590,000.00 ",$435.00 ,6%,
+Pymble,Upper North Shore,2073,"English 22.8%, Australian 18.8%, Chinese 15.0%, Irish 7.8%, Scottish 6.5%","$2,300,000.00 ","$2,800,000.00 ",21.74%,"$1,110.00 ","$930,000.00 ",$610.00 ,0%,
+Bellevue Hill,Eastern Suburbs,2023,"English 20.9%, Australian 17.3%, Irish 7.8%, Scottish 6.0%, Chinese 3.3%","$4,500,000.00 ","$6,000,000.00 ",33.33%,"$2,250.00 ","$1,200,000.00 ",$690.00 ,0%,
+Ermington,North Shore,2115,"Australian 17.3%, English 17.2%, Chinese 11.4%, Irish 6.5%, Lebanese 5.1%","$1,200,000.00 ","$1,400,000.00 ",16.67%,$570.00 ,"$725,000.00 ",$510.00 ,17%,
+Harrington Park,South West,2567,"Australian 24.9%, English 24.3%, Italian 7.1%, Irish 7.0%, Scottish 5.5%","$920,000.00 ","$1,100,000.00 ",19.57%,$550.00 ,,,0%,
+Mona Vale,Northern Beaches,2103,"English 31.5%, Australian 24.4%, Irish 8.9%, Scottish 7.6%, German 2.9%","$1,850,000.00 ","$2,400,000.00 ",29.73%,$870.00 ,"$1,100,000.00 ",$615.00 ,0%,
+Sylvania,Sutherland Shire,2224,"English 22.5%, Australian 21.4%, Greek 7.7%, Irish 7.1%, Scottish 5.6%","$1,250,000.00 ","$1,600,000.00 ",28.00%,$755.00 ,"$845,000.00 ",$510.00 ,3%,
+Canley Vale,Western Suburbs,2166,"Vietnamese 29.0%, Chinese 22.5%, English 5.6%, Australian 5.3%, Khmer (Cambodian) 5.0%","$815,000.00 ","$950,000.00 ",16.56%,$430.00 ,"$390,000.00 ",$330.00 ,9%,
+Rose Bay,Eastern Suburbs,2029,"English 19.9%, Australian 16.3%, Irish 7.4%, Scottish 5.5%, South African 4.8%","$3,800,000.00 ","$4,200,000.00 ",10.53%,"$1,690.00 ","$1,250,000.00 ",$660.00 ,0%,
+Beverly Hills,Southern Suburbs,2209,"Chinese 26.5%, English 10.5%, Australian 10.4%, Greek 8.5%, Italian 4.4%","$1,200,000.00 ","$1,350,000.00 ",12.50%,$600.00 ,"$660,000.00 ",$460.00 ,6%,
+Wiley Park,Western Suburbs,2195,"Bangladeshi 12.0%, Lebanese 10.8%, Australian 6.6%, Chinese 6.5%, English 5.3%","$775,000.00 ","$930,000.00 ",20.00%,$510.00 ,"$385,000.00 ",$355.00 ,3%,
+Avalon Beach,Northern Beaches,2107,"English 34.6%, Australian 24.6%, Irish 10.7%, Scottish 8.8%, German 2.9%","$1,900,000.00 ","$2,250,000.00 ",18.42%,$850.00 ,"$790,000.00 ",$550.00 ,0%,
+Glenfield,Western Suburbs,2167,"Australian 13.7%, English 13.2%, Indian 12.4%, Chinese 6.2%, Filipino 4.0%","$685,000.00 ","$800,000.00 ",16.79%,$485.00 ,"$455,000.00 ",$380.00 ,5%,
+Leumeah,South West,2560,"Australian 23.0%, English 22.7%, Irish 6.8%, Scottish 5.6%, Indian 3.4%","$590,000.00 ","$680,000.00 ",15.25%,$385.00 ,"$380,000.00 ",$345.00 ,10%,
+Matraville,Southern Suburbs,2036,"Australian 18.0%, English 17.9%, Chinese 8.7%, Irish 8.6%, Scottish 4.4%","$1,600,000.00 ","$1,850,000.00 ",15.63%,"$1,000.00 ","$910,000.00 ",$570.00 ,13%,
+Moorebank,Western Suburbs,2170,"Australian 18.3%, English 16.3%, Lebanese 5.0%, Greek 4.9%, Italian 4.8%","$900,000.00 ","$1,050,000.00 ",16.67%,$565.00 ,"$580,000.00 ",$475.00 ,3%,
+Mount Pritchard,Western Suburbs,2170,"Vietnamese 15.5%, Australian 12.5%, English 11.3%, Chinese 6.9%, Italian 4.8%","$640,000.00 ","$750,000.00 ",17.19%,$430.00 ,,$360.00 ,10%,
+Potts Point,Inner East,2011,"English 20.9%, Australian 11.3%, Irish 8.9%, Scottish 5.9%, Italian 3.0%","$3,400,000.00 ","$4,200,000.00 ",23.53%,$850.00 ,"$770,000.00 ",$540.00 ,1%,
+Vaucluse,Eastern Suburbs,2030,"English 20.2%, Australian 16.3%, Irish 7.6%, Scottish 5.7%, South African 4.4%","$5,100,000.00 ","$6,300,000.00 ",23.53%,"$2,000.00 ","$1,250,000.00 ",$700.00 ,0%,
+Hunters Hill,Lower North Shore,2110,"English 22.7%, Australian 20.3%, Irish 11.2%, Scottish 6.8%, Chinese 5.3%","$2,950,000.00 ","$3,500,000.00 ",18.64%,"$1,050.00 ","$875,000.00 ",$520.00 ,5%,
+Kings Langley,Western Suburbs,2147,"Australian 23.8%, English 23.5%, Irish 8.0%, Scottish 6.0%, Italian 3.9%","$940,000.00 ","$1,150,000.00 ",22.34%,$515.00 ,,$455.00 ,0%,
+Kingswood,Western Suburbs,2747,"English 24.1%, Australian 24.0%, Irish 7.0%, Scottish 5.1%, Indian 4.5%","$620,000.00 ","$740,000.00 ",19.35%,$390.00 ,"$420,000.00 ",$360.00 ,11%,
+Lurnea,Western Suburbs,2170,"Australian 14.7%, Lebanese 13.3%, English 12.3%, Iraqi 5.2%, Vietnamese 3.2%","$640,000.00 ","$800,000.00 ",25.00%,$440.00 ,"$495,000.00 ",$395.00 ,16%,
+Newport,Northern Beaches,2106,"English 32.4%, Australian 24.6%, Irish 10.1%, Scottish 8.7%, German 3.1%","$1,800,000.00 ","$2,100,000.00 ",16.67%,$920.00 ,"$950,000.00 ",$590.00 ,0%,
+Bass Hill,Western Suburbs,2197,"Lebanese 20.9%, Australian 13.5%, English 11.0%, Vietnamese 7.9%, Italian 4.3%","$790,000.00 ","$900,000.00 ",13.92%,$570.00 ,,$470.00 ,12%,
+Plumpton,Western Suburbs,2761,"Filipino 18.7%, Australian 14.0%, English 11.5%, Indian 8.0%, Pakistani 3.6%","$635,000.00 ","$730,000.00 ",14.96%,$430.00 ,"$500,000.00 ",$425.00 ,0%,
+Stanhope Gardens,Western Suburbs,2768,"Australian 17.2%, English 16.6%, Indian 11.3%, Filipino 7.0%, Chinese 5.5%","$900,000.00 ","$1,100,000.00 ",22.22%,$585.00 ,"$670,000.00 ",$430.00 ,0%,
+Belrose,Northern Beaches,2085,"English 29.2%, Australian 23.0%, Irish 9.2%, Scottish 7.0%, Armenian 2.9%","$1,550,000.00 ","$1,800,000.00 ",16.13%,$975.00 ,"$570,000.00 ",$470.00 ,0%,
+Berala,Western Suburbs,2141,"Chinese 30.0%, Australian 7.3%, English 6.8%, Vietnamese 4.9%, Lebanese 4.5%","$875,000.00 ","$1,050,000.00 ",20.00%,$490.00 ,"$460,000.00 ",$370.00 ,5%,
+Eastlakes,Southern Suburbs,2018,"Australian 10.5%, Chinese 9.8%, English 9.0%, Greek 7.2%, Bangladeshi 5.2%","$1,450,000.00 ","$1,650,000.00 ",13.79%,$750.00 ,"$590,000.00 ",$475.00 ,20%,
+Bradbury,South West,2560,"Australian 26.3%, English 24.7%, Irish 7.9%, Scottish 6.0%, German 2.5%","$555,000.00 ","$650,000.00 ",17.12%,$395.00 ,"$460,000.00 ",$310.00 ,6%,
+Freshwater,Northern Beaches,2096,"English 29.7%, Australian 23.2%, Irish 10.4%, Scottish 8.0%, Italian 3.3%","$2,450,000.00 ","$3,100,000.00 ",26.53%,"$1,300.00 ","$840,000.00 ",$600.00 ,1%,
+Wattle Grove,Western Suburbs,2173,"Australian 23.0%, English 19.5%, Irish 6.3%, Indian 5.7%, Scottish 4.6%","$800,000.00 ","$890,000.00 ",11.25%,$525.00 ,,$485.00 ,1%,
+Brighton-le-Sands,Southern Suburbs,2216,"Greek 13.8%, English 11.6%, Australian 11.1%, Italian 5.0%, Irish 4.9%","$1,300,000.00 ","$1,600,000.00 ",23.08%,$695.00 ,"$670,000.00 ",$450.00 ,3%,
+Colyton,Western Suburbs,2760,"Australian 24.4%, English 20.9%, Irish 5.5%, Scottish 4.4%, Indian 2.6%","$590,000.00 ",,-100.00%,$390.00 ,"$505,000.00 ",$330.00 ,3%,
+Emu Plains,Western Suburbs,2750,"Australian 29.1%, English 28.8%, Irish 10.2%, Scottish 6.9%, German 2.9%","$720,000.00 ","$810,000.00 ",12.50%,$470.00 ,"$675,000.00 ",$440.00 ,3%,
+Forestville,Northern Beaches,2087,"English 26.8%, Australian 21.4%, Irish 8.1%, Scottish 6.7%, Chinese 5.6%","$1,600,000.00 ","$2,000,000.00 ",25.00%,$870.00 ,"$930,000.00 ",$600.00 ,2%,
+Thornleigh,Upper North Shore,2120,"English 23.3%, Australian 21.8%, Chinese 9.0%, Irish 7.9%, Scottish 6.1%","$1,200,000.00 ","$1,500,000.00 ",25.00%,$610.00 ,"$900,000.00 ",$540.00 ,3%,
+Narrabeen,Northern Beaches,2101,"English 31.4%, Australian 22.6%, Irish 9.6%, Scottish 8.0%, German 2.8%","$2,250,000.00 ","$2,650,000.00 ",17.78%,"$1,050.00 ","$855,000.00 ",$580.00 ,1%,
+Balgowlah,Northern Beaches,2093,"English 30.2%, Australian 20.4%, Irish 10.9%, Scottish 9.1%, German 2.6%","$2,150,000.00 ","$2,600,000.00 ",20.93%,"$1,050.00 ","$1,100,000.00 ",$620.00 ,1%,
+Bella Vista,Hills Shire,2153,"Chinese 13.8%, English 13.5%, Australian 13.0%, Indian 11.4%, Irish 4.8%","$1,600,000.00 ","$2,000,000.00 ",25.00%,$750.00 ,"$825,000.00 ",$610.00 ,0%,
+Collaroy,Northern Beaches,2097,"English 27.9%, Australian 23.7%, Irish 9.7%, Scottish 7.5%, Italian 4.8%","$2,400,000.00 ","$3,000,000.00 ",25.00%,"$1,100.00 ","$880,000.00 ",$575.00 ,0%,
+Gordon,Upper North Shore,2072,"Chinese 20.5%, English 20.4%, Australian 14.7%, Irish 6.1%, Scottish 5.7%","$2,300,000.00 ","$2,800,000.00 ",21.74%,"$1,000.00 ","$940,000.00 ",$600.00 ,0%,
+North Rocks,Hills Shire,2151,"English 20.1%, Australian 19.4%, Chinese 14.9%, Irish 6.8%, Scottish 5.5%","$1,250,000.00 ","$1,500,000.00 ",20.00%,$590.00 ,"$605,000.00 ",$495.00 ,0%,
+Rosemeadow,South West,2560,"Australian 24.9%, English 22.4%, Irish 5.5%, Scottish 5.3%, German 2.4%","$550,000.00 ","$690,000.00 ",25.45%,$400.00 ,"$440,000.00 ",$330.00 ,11%,
+Cromer,Northern Beaches,2099,"English 29.8%, Australian 25.0%, Irish 8.4%, Scottish 7.0%, Italian 4.8%","$1,550,000.00 ","$2,000,000.00 ",29.03%,$840.00 ,"$725,000.00 ",$540.00 ,1%,
+Dural,Hills Shire,2158,"English 23.9%, Australian 20.4%, Irish 7.5%, Chinese 6.8%, Scottish 6.4%","$1,500,000.00 ","$2,000,000.00 ",33.33%,$700.00 ,"$735,000.00 ",$510.00 ,0%,
+Lalor Park,Western Suburbs,2147,"Australian 25.4%, English 22.2%, Irish 6.5%, Scottish 5.5%, Filipino 2.7%","$650,000.00 ","$760,000.00 ",16.92%,$400.00 ,,$380.00 ,18%,
+Marayong,Western Suburbs,2148,"Australian 18.6%, English 17.3%, Indian 9.3%, Filipino 7.3%, Irish 4.9%","$640,000.00 ","$775,000.00 ",21.09%,$405.00 ,,$390.00 ,12%,
+Warriewood,Northern Beaches,2102,"English 29.1%, Australian 23.5%, Irish 8.6%, Scottish 6.8%, Italian 3.5%","$1,500,000.00 ","$1,850,000.00 ",23.33%,"$1,000.00 ","$935,000.00 ",$725.00 ,0%,
+Ambarvale,South West,2560,"Australian 24.1%, English 22.9%, Irish 5.7%, Scottish 4.5%, Filipino 2.5%","$540,000.00 ","$650,000.00 ",20.37%,$380.00 ,"$360,000.00 ",$330.00 ,18%,
+Haymarket,Sydney City,2000,"Chinese 31.9%, Thai 18.3%, Indonesian 5.6%, English 5.1%, Korean 4.8%",,,#DIV/0!,,"$1,050,000.00 ",$825.00 ,0%,
+Pendle Hill,Western Suburbs,2145,"Indian 20.7%, Australian 12.4%, English 10.5%, Sri Lankan 4.0%, Chinese 3.8%","$875,000.00 ","$980,000.00 ",12.00%,$475.00 ,"$480,000.00 ",$415.00 ,10%,
+Pennant Hills,Hills Shire,2120,"English 22.6%, Australian 18.7%, Chinese 11.9%, Irish 8.6%, Scottish 7.0%","$1,400,000.00 ","$1,800,000.00 ",28.57%,$660.00 ,"$770,000.00 ",$490.00 ,2%,
+Woollahra,Eastern Suburbs,2025,"English 25.4%, Australian 16.7%, Irish 10.7%, Scottish 8.1%, Chinese 3.0%","$3,000,000.00 ","$3,900,000.00 ",30.00%,"$1,375.00 ","$1,150,000.00 ",$700.00 ,0%,
+Illawong,Sutherland Shire,2234,"English 22.9%, Australian 22.0%, Irish 7.6%, Scottish 5.9%, Lebanese 5.5%","$1,200,000.00 ","$1,500,000.00 ",25.00%,$775.00 ,"$745,000.00 ",$510.00 ,0%,
+Mount Colah,Northern Suburbs,2079,"English 26.9%, Australian 25.4%, Irish 8.8%, Scottish 7.1%, Chinese 4.0%","$1,000,000.00 ","$1,250,000.00 ",25.00%,$620.00 ,"$630,000.00 ",$445.00 ,1%,
+Riverstone,Hills Shire,2765,"Australian 28.4%, English 24.8%, Irish 6.1%, Scottish 5.1%, Italian 3.5%","$725,000.00 ","$810,000.00 ",11.72%,$510.00 ,"$655,000.00 ",$370.00 ,6%,
+Seaforth,Northern Beaches,2092,"English 30.7%, Australian 21.3%, Irish 10.2%, Scottish 7.5%, Chinese 3.6%","$2,400,000.00 ","$2,800,000.00 ",16.67%,"$1,300.00 ","$1,300,000.00 ",$730.00 ,3%,
+Allambie Heights,Northern Beaches,2100,"English 29.8%, Australian 24.7%, Irish 10.0%, Scottish 8.0%, Italian 3,5%","$1,600,000.00 ","$1,800,000.00 ",12.50%,$850.00 ,,$595.00 ,1%,
+Bronte,Eastern Suburbs,2024,"English 25.5%, Australian 19.1%, Irish 11.5%, Scottish 7.5%, Italian 3.2%","$3,500,000.00 ","$4,700,000.00 ",34.29%,"$1,450.00 ","$1,200,000.00 ",$700.00 ,1%,
+Cammeray,Lower North Shore,2062,"English 26.4%, Australian 20.0%, Irish 10.9%, Scottish 8.0%, Chinese 3.9%","$2,200,000.00 ","$2,500,000.00 ",13.64%,"$1,100.00 ","$950,000.00 ",$610.00 ,1%,
+Oakhurst,Western Suburbs,2761,"Australian 17.2%, English 14.6%, Filipino 14.4%, Indian 6.1%, Irish 3.2%","$635,000.00 ","$745,000.00 ",17.32%,$415.00 ,,,1%,
+Wentworth Point,Inner West,2127,"Chinese 18.4%, English 12.4%, Australian 9.1%, Korean 7.6%, Irish 4.3%",-,-,#VALUE!,$560.00 ,"$670,000.00 ",$530.00 ,0%,
+Narraweena,Northern Beaches,2099,"English 25.5%, Australian 21.6%, Italian 10.9%, Irish 7.5%, Scottish 6.0%","$1,450,000.00 ","$1,800,000.00 ",24.14%,$795.00 ,,$550.00 ,17%,
+Rydalmere,Western Suburbs,2116,"Australian 16.3%, English 15.8%, Chinese 14.4%, Korean 6.2%, Irish 6.1%","$1,100,000.00 ","$1,350,000.00 ",22.73%,$510.00 ,"$675,000.00 ",$465.00 ,13%,
+St Helens Park,South West,2560,"Australian 26.1%, English 24.6%, Irish 6.5%, Scottish 5.9%, German 2.6%","$570,000.00 ","$650,000.00 ",14.04%,$395.00 ,,$335.00 ,3%,
+Willoughby,Lower North Shore,2068,"English 22.8%, Australian 20.1%, Irish 9.6%, Chinese 8.4%, Scottish 6.9%","$2,350,000.00 ","$2,900,000.00 ",23.40%,"$1,025.00 ","$925,000.00 ",$540.00 ,1%,
+Erskine Park,Western Suburbs,2759,"Australian 25.0%, English 21.9%, Irish 5.9%, Scottish 4.7%, Filipino 4.3%","$720,000.00 ","$850,000.00 ",18.06%,$430.00 ,,,1%,
+Glenhaven,Hills Shire,2156,"English 27.3%, Australian 23.6%, Irish 8.1%, Scottish 7.6%, Italian 5.0%","$1,600,000.00 ","$1,900,000.00 ",18.75%,$740.00 ,,,0%,
+Northbridge,Lower North Shore,2063,"English 26.3%, Australian 20.8%, Irish 10.3%, Chinese 7.9%, Scottish 7.1%","$3,000,000.00 ","$3,500,000.00 ",16.67%,"$1,200.00 ","$1,100,000.00 ",$675.00 ,0%,
+Woodcroft,Western Suburbs,2767,"Filipino 24.2%, Indian 14.5%, Australian 9.3%, English 7.5%, Chinese 5.4%","$710,000.00 ","$810,000.00 ",14.08%,$490.00 ,,$520.00 ,2%,
+Manly Vale,Northern Beaches,2093,"English 25.8%, Australian 19.6%, Irish 9.5%, Scottish 6.9%, Italian 3.4%","$2,000,000.00 ","$2,600,000.00 ",30.00%,$930.00 ,"$775,000.00 ",$570.00 ,3%,
+Picnic Point,Western Suburbs,2213,"Australian 23.1%, English 20.7%, Irish 8.2%, Scottish 5.9%, Greek 4.9%","$1,000,000.00 ","$1,200,000.00 ",20.00%,$625.00 ,"$740,000.00 ",$580.00 ,1%,
+Ropes Crossing,Western Suburbs,2760,"Australian 16.2%, English 15.3%, Indian 12.3%, Filipino 9.6%, Irish 4.0%","$635,000.00 ","$750,000.00 ",18.11%,$485.00 ,"$465,000.00 ",$450.00 ,0%,
+St Johns Park,Western Suburbs,2176,"Vietnamese 20.2%, Chinese 17.7%, Australian 6.0%, Italian 5.6%, English 5.2%","$780,000.00 ","$910,000.00 ",16.67%,$490.00 ,,$395.00 ,3%,
+Wetherill Park,Western Suburbs,2164,"Australian 10.6%, Italian 9.6%, English 8.9%, Assyrian 7.6%, Chinese 4.7%","$760,000.00 ","$980,000.00 ",28.95%,$500.00 ,"$525,000.00 ",$430.00 ,2%,
+Villawood,Western Suburbs,2163,"Lebanese 15.1%, Vietnamese 14.5%, Australian 10.8%, English 9.3%, Chinese 6.9%","$695,000.00 ","$765,000.00 ",10.07%,$520.00 ,"$520,000.00 ",$360.00 ,46%,
+Elderslie,South West,2570,"English 29.8%, Australian 29.2%, Irish 9.5%, Scottish 7.2%, Italian 3.3%","$665,000.00 ","$770,000.00 ",15.79%,$495.00 ,,$375.00 ,5%,
+Fairlight,Northern Beaches,2094,"English 32.7%, Australian 20.3%, Irish 11.5, Scottish 8.4%, German 3.0%","$2,300,000.00 ","$3,100,000.00 ",34.78%,"$1,300.00 ","$1,250,000.00 ",$735.00 ,0%,
+Harris Park,Western Suburbs,2150,"Indian 39.4%, English 7.2%, Chinese 6.7%, Australian 5.6%, Lebanese 4.5%","$1,050,000.00 ","$1,200,000.00 ",14.29%,$500.00 ,"$470,000.00 ",$390.00 ,8%,
+Heathcote,Sutherland Shire,2233,"English 32.5%, Australian 31.4%, Irish 9.9%, Scottish 7.9%, German 2.4%","$920,000.00 ","$1,150,000.00 ",25.00%,$625.00 ,"$715,000.00 ",$510.00 ,0%,
+Naremburn,Lower North Shore,2065,"English 24.4%, Australian 20.1%, Irish 9.1%, Scottish 7.2%, Chinese 6.8%","$2,100,000.00 ","$2,600,000.00 ",23.81%,"$1,000.00 ","$1,150,000.00 ",$630.00 ,3%,
+Newington,Western Suburbs,2127,"Chinese 20.6%, Korean 12.8%, English 12.0%, Australian 11.3%, Indian 4.9%","$1,200,000.00 ","$1,400,000.00 ",16.67%,$750.00 ,"$685,000.00 ",$530.00 ,0%,
+Raby,South West,2566,"English 23.8%, Australian 23.5%, Irish 7.6%, Scottish 5.4%, Italian 2.7%","$600,000.00 ","$700,000.00 ",16.67%,$435.00 ,,,0%,
+Sefton,Western Suburbs,2162,"Lebanese 16.7%, Vietnamese 15.0%, Chinese 12.7%, Australian 10.4%, English 8.5%","$780,000.00 ","$930,000.00 ",19.23%,$475.00 ,"$515,000.00 ",$410.00 ,6%,
+Warwick Farm,Western Suburbs,2170,"English 9.9%, Australian 9.1%, Indian 7.9%, Vietnamese 5.9%, Chinese 5.1%","$680,000.00 ","$810,000.00 ",19.12%,$400.00 ,"$370,000.00 ",$350.00 ,26%,
+Whalan,Western Suburbs,2770,"Australian 24.9%, English 21.6%, Irish 4.7%, Scottish 4.6%, Samoan 4.2%","$470,000.00 ","$590,000.00 ",25.53%,$340.00 ,,$280.00 ,33%,
+Girraween,Western Suburbs,2145,"Indian 28.6%, Australian 10.8%, English 9.3%, Sri Lankan 4.5%, Maltese 4.0%","$850,000.00 ","$975,000.00 ",14.71%,$510.00 ,"$650,000.00 ",$460.00 ,5%,
+Greenwich,Lower North Shore,2065,"English 24.8%, Australian 20.2%, Irish 10.6%, Scottish 7.8%, Chinese 5.8%","$2,850,000.00 ","$3,200,000.00 ",12.28%,"$1,125.00 ","$750,000.00 ",$560.00 ,1%,
+Hebersham,Western Suburbs,2770,"Australian 21.5%, English 19.0%, Samoan 4.6%, Filipino 4.6%, Indian 4.4%","$510,000.00 ","$640,000.00 ",25.49%,$345.00 ,,,17%,
+Minchinbury,Western Suburbs,2770,"Australian 17.1%, English 15.6%, Filipino 8.6%, Indian 4.5%, Irish 4.1%","$730,000.00 ","$820,000.00 ",12.33%,$460.00 ,,$420.00 ,2%,
+Narwee,Southern Suburbs,2209,"Chinese 29.2%, Australian 10.7%, English 10.6%, Lebanese 4.1%, Irish 3.9%","$990,000.00 ","$1,200,000.00 ",21.21%,$570.00 ,"$570,000.00 ",$410.00 ,14%,
+Oatlands,Western Suburbs,2117,"English 15.8%, Australian 15.6%, Chinese 13.0%, Lebanese 12.6%, Korean 5.7%","$1,450,000.00 ","$1,800,000.00 ",24.14%,$640.00 ,"$790,000.00 ",$550.00 ,6%,
+Ruse,South West,2560,"Australian 27.9%, English 26.4%, Irish 8.8%, Scottish 6.9%, Italian 2.4%","$600,000.00 ","$700,000.00 ",16.67%,$425.00 ,,$350.00 ,2%,
+St Andrews,South West,2566,"Australian 22.1%, English 19.7%, Irish 5.7%, Scottish 5.3%, Filipino 3.9%","$615,000.00 ","$710,000.00 ",15.45%,$420.00 ,,,4%,
+Telopea,Western Suburbs,2117,"Chinese 21.9%, English 14.0%, Australian 13.6%, Korean 8.4%, Irish 5.0%","$1,150,000.00 ","$1,420,000.00 ",23.48%,$530.00 ,"$555,000.00 ",$440.00 ,22%,
+Oyster Bay,Sutherland Shire,2225,"English 29.3%, Australian 27.1%, Irish 10.2%, Scottish 7.2%, Italian 2.7%","$1,250,000.00 ","$1,550,000.00 ",24.00%,$685.00 ,,$650.00 ,2%,
+Abbotsford,Inner West,2046,"English 18.9%, Australian 16.6%, Italian 14.1%, Irish 8.9%, Chinese 5.7%","$2,200,000.00 ","$2,550,000.00 ",15.91%,$900.00 ,"$1,100,000.00 ",$620.00 ,8%,
+Berowra,Northern Suburbs,2081,"English 31.9%, Australian 28.5%, Irish 9.6%, Scottish 7.4%, German 3.2%","$1,000,000.00 ","$1,200,000.00 ",20.00%,$620.00 ,,$450.00 ,0%,
+Elizabeth Bay,Eastern Suburbs,2011,"English 25.1%, Australian 13.6%, Irish 11.9%, Scottish 7.8%, Italian 3.3%","$2,625,000.00 ","$3,400,000.00 ",29.52%,,"$890,000.00 ",$525.00 ,0%,
+Hillsdale,Southern Suburbs,2036,"English 11.5%, Australian 10.9%, Chinese 9.1%, Irish 5.7%, Bangladeshi 4.6%","$1,350,000.00 ","$1,600,000.00 ",18.52%,,"$600,000.00 ",$450.00 ,2%,
+Jamisontown,Western Suburbs,2750,"English 28.4%, Australian 27.3%, Irish 8.6%, Scottish 6.6%, German 3.1%","$650,000.00 ","$760,000.00 ",16.92%,$450.00 ,"$350,000.00 ",$360.00 ,3%,
+Malabar,Southern Suburbs,2036,"Australian 17.3%, English 16.9%, Irish 7.8%, Scottish 4.5%, Chinese 3.9%","$2,000,000.00 ","$2,350,000.00 ",17.50%,"$1,125.00 ",,$565.00 ,26%,
+Normanhurst,Upper North Shore,2076,"English 24.0%, Australian 22.1%, Chinese 7.8%, Irish 7.7%, Scottish 7.1%","$1,350,000.00 ","$1,700,000.00 ",25.93%,$710.00 ,"$870,000.00 ",$480.00 ,5%,
+Richmond,Northern Suburbs,2753,"English 29.1%, Australian 27.2%, Scottish 6.9%, German 3.1%","$625,000.00 ","$750,000.00 ",20.00%,$425.00 ,"$445,000.00 ",$365.00 ,5%,
+Middleton Grange,Western Suburbs,2171,"Australian 11.9%, Italian 8.2%, Assyrian 7.9%, English 7.7%, Indian 4.1%","$775,000.00 ","$890,000.00 ",14.84%,$545.00 ,,,12%,
+Russell Lea,Inner West,2560,"Australian 19.0%, English 17.8%, Italian 17.2%, Irish 9.0%, Scottish 5.4%","$1,850,000.00 ","$2,400,000.00 ",29.73%,$880.00 ,"$810,000.00 ",$530.00 ,5%,
+Schofields,Western Suburbs,2762,"Australian 21.3%, English 20.4%, Indian 8.4%, Irish 6.5%, Maltese 5.3%","$800,000.00 ","$900,000.00 ",12.50%,$555.00 ,"$650,000.00 ",$500.00 ,0%,
+Kenthurst,Hills Shire,2156,"Australian 25.6%, English 24.9%, Irish 7.7%, Scottish 6.5%, Italian 6.3%","$2,200,000.00 ","$2,700,000.00 ",22.73%,$600.00 ,,,0%,
+Pemulwuy,Western Suburbs,2145,"Indian 13.3%, Australian 12.0%, English 9.1%, Chinese 6.8%, Filipino 5.7%","$850,000.00 ","$1,050,000.00 ",23.53%,$640.00 ,"$570,000.00 ",$440.00 ,0%,
+Marsden Park,Western Suburbs,2765,"English 23.1%, Australian 20.5%, Maltese 12.0%, Irish 5.9%, Scottish 3.7%","$750,000.00 ","$900,000.00 ",20.00%,$550.00 ,,$475.00 ,0%,
+Oran Park,South West,2570,"Australian 23.3%, English 17.5%, Italian 7.0%, Irish 4.2%, Scottish 4.1%","$710,000.00 ","$820,000.00 ",15.49%,$510.00 ,"$620,000.00 ",$350.00 ,0%,
+Regents Park,Western Suburbs,2143,"Chinese 20.5%, English 8.8%, Australian 8.3%, Lebanese 7.4%, Vietnamese 6.5%","$810,000.00 ","$950,000.00 ",17.28%,$465.00 ,"$430,000.00 ",$390.00 ,11%,
+Lethbridge Park,Western Suburbs,2770,"Australian 26.5%, English 23.5%, Irish 5.6%, Scottish 5.2%, Samoan 4.6%","$490,000.00 ","$580,000.00 ",18.37%,$325.00 ,,,33%,
+Wakeley,Western Suburbs,2176,"Vietnamese 15.8%, Chinese 11.3%, Assyrian 11.2%, Australian 6.4%, English 4.7%","$745,000.00 ","$830,000.00 ",11.41%,$485.00 ,,,2%,
+Clovelly,Eastern Suburbs,2031,"English 27.5%, Australian 20.3%, Irish 12.7%, Scottish 7.3%, German 3.4%","$2,950,000.00 ","$3,600,000.00 ",22.03%,"$1,450.00 ","$1,300,000.00 ",$725.00 ,1%,
+Dundas,North Shore,2117,"Chinese 18.4%, English 15.3%, Australian 14.6%, Korean 6.4%, Irish 4.8%","$1,100,000.00 ","$1,330,000.00 ",20.91%,$575.00 ,"$660,000.00 ",$470.00 ,5%,
+Forest Lodge,Inner West,2037,"English 20.8%, Australian 15.5%, Chinese 12.9%, Irish 9.2%, Scottish 6.4%","$1,700,000.00 ","$1,950,000.00 ",14.71%,$950.00 ,"$880,000.00 ",$610.00 ,6%,
+Hurlstone Park,Inner West,2193,"English 16.1%, Australian 14.7%, Irish 8.9%, Greek 8.4%, Chinese 5.3%","$1,450,000.00 ","$1,800,000.00 ",24.14%,$680.00 ,"$715,000.00 ",$480.00 ,2%,
+Monterey,Southern Suburbs,2217,"Greek 18.8%, English 11.8%, Australian 11.7%, Irish 4.6%, Italian 4.0%","$1,450,000.00 ","$1,850,000.00 ",27.59%,$690.00 ,"$700,000.00 ",$460.00 ,1%,
+Prospect,Western Suburbs,2148,"English 15.8%, Australian 15.7%, Indian 6.4%, Maltese 5.3%, Irish 4.8%","$760,000.00 ","$850,000.00 ",11.84%,$450.00 ,"$545,000.00 ",$420.00 ,1%,
+Barden Ridge,Sutherland Shire,2234,"Australian 29.1%, English 27.4%, Irish 7.8%, Scottish 6.5%, Italian 3.6%","$1,200,000.00 ","$1,350,000.00 ",12.50%,$830.00 ,,$500.00 ,0%,
+Bidwill,Western Suburbs,2770,"Australian 26.0%, English 22.5%, Samoan 5.0%, Irish 5.0%, Scottish 4.2%","$480,000.00 ","$575,000.00 ",19.79%,$330.00 ,,,65%,
+Darling Point,Eastern Suburbs,2027,"English 24.1%, Australian 15.1%, Irish 9.7%, Scottish 7.4% Chinese 3.3%","$5,900,000.00 ",,-100.00%,"$1,645.00 ","$1,850,000.00 ",$850.00 ,0%,
+Hoxton Park,Western Suburbs,2171,"Australian 10.2%, English 8.9%, Indian 7.3%, Italian 5.4%, Chinese 4.8%","$670,000.00 ","$800,000.00 ",19.40%,$500.00 ,,,1%,
+Killarney Heights,Northern Beaches,2087,"English 24.9%, Australian 19.7%, Chinese 8.5%, Irish 7.6%, Scottish 6.8%","$1,800,000.00 ","$2,200,000.00 ",22.22%,$975.00 ,,$650.00 ,0%,
+Little Bay,Southern Suburbs,2036,"English 20.2%, Australian 17.7%, Irish 9.4%, Chinese 8.9%, Scottish 5.2%","$1,750,000.00 ","$2,200,000.00 ",25.71%,"$1,050.00 ","$950,000.00 ",$650.00 ,9%,
+Spring Farm,South West,2570,"Australian 29.2%, English 26.1%, Irish 8.0%, Scottish 6.2%, Italian 3.2%","$675,000.00 ","$780,000.00 ",15.56%,$505.00 ,,$370.00 ,0%,
+Waverley,Eastern Suburbs,2024,"English 23.2%, Australian 16.3%, Irish 10.1%, Scottish 6.3%, Italian 3.5%","$2,350,000.00 ","$3,100,000.00 ",31.91%,"$1,200.00 ","$765,000.00 ",$630.00 ,3%,
+Westleigh,Northern Suburbs,2120,"English 26.6%, Australian 23.6%, Irish 8.3%, Scottish 7.2%, Chinese 6.6%","$1,300,000.00 ","$1,600,000.00 ",23.08%,$760.00 ,,,0%,
+Busby,South West,2168,"Australian 18.9%, English 14.1%, Lebanese 11.3%, Vietnamese 7.3%, Irish 3.4%","$570,000.00 ","$700,000.00 ",22.81%,$380.00 ,,$335.00 ,28%,
+Abbotsbury,Western Suburbs,2176,"Italian 18.4%, Australian 12.3%, English 9.3%, Assyrian 6.4%, Croatian 4.4%","$921,000.00 ","$1,100,000.00 ",19.44%,,,,0%,
+Breakfast Point,Inner West,2137,"English 18.0%, Chinese 15.2%, Australian 13.9%, Irish 8.0%, Italian 6.9%","$2,200,000.00 ","$2,400,000.00 ",9.09%,,"$1,100,000.00 ",$690.00 ,0%,
+Loftus,Sutherland Shire,2232,"Australian 31.3%, English 29.4%, Irish 10.9%, Scottish 8.4%, Italian 3.0%","$990,000.00 ","$1,300,000.00 ",31.31%,$635.00 ,"$650,000.00 ",$500.00 ,1%,
+Silverwater,Western Suburbs,2128,"Korean 10.1%, Australian 6.1%, English 5.4%, Chinese 5.3%, Lebanese 4.2%","$970,000.00 ","$1,250,000.00 ",28.87%,$490.00 ,"$605,000.00 ",$440.00 ,1%,
+Woolloomooloo,Sydney City,2011,"English 21.5%, Australian 13.5%, Irish 9.1%, Scottish 6.7%, Chinese 4.6%","$1,800,000.00 ","$2,300,000.00 ",27.78%,$850.00 ,"$1,050,000.00 ",$650.00 ,22%,
+Werrington,Western Suburbs,2747,"Australian 24.7%, English 23.6%, Irish 5.7%, Scottish 4.5%, Filipino 3.9%","$650,000.00 ","$725,000.00 ",11.54%,$440.00 ,"$400,000.00 ",$320.00 ,6%,
+Constitution Hill,Western Suburbs,2145,"Australian 18.0%, English 16.5%, Chinese 6.6%, Lebanese 6.5%, Irish 5.6%","$875,000.00 ","$1,000,000.00 ",14.29%,$480.00 ,,$435.00 ,16%,
+Enmore,Inner West,2042,"English 23.2%, Australian 18.0%, Irish 10.6%, Scottish 7.9%, Chinese 3.4%","$1,400,000.00 ","$1,750,000.00 ",25.00%,$845.00 ,"$650,000.00 ",$440.00 ,1%,
+Londonderry,Western Suburbs,2753,"Australian 28.0%, English 24.3%, Maltese 12,4%, Irish 6.5%, Scottish 4.4%","$1,200,000.00 ","$1,450,000.00 ",20.83%,$470.00 ,,$330.00 ,0%,
+Pagewood,Southern Suburbs,2035,"English 17.7%, Australian 17.4%, Greek 8.8%, Chinese 8.1%, Irish 7.5%","$1,750,000.00 ","$2,000,000.00 ",14.29%,$820.00 ,"$950,000.00 ",$650.00 ,10%,
+Rosehill,Western Suburbs,2142,"Indian 22.1%, English 9.7%, Chinese 9.7%, Lebanese 6.9%, Australian 6.7%","$860,000.00 ","$950,000.00 ",10.47%,$500.00 ,"$480,000.00 ",$410.00 ,2%,
+Tempe,Inner West,2044,"English 19.5%, Australian 17.4%, Irish 9.0%, Chinese 5.8%, Scottish 5.6%","$1,200,000.00 ","$1,400,000.00 ",16.67%,$700.00 ,"$740,000.00 ",$470.00 ,1%,
+Tregear,Western Suburbs,2770,"Australian 28.6%, English 23.9%, Samoan 5.3%, Irish 4.9%, Scottish 3.7%","$460,000.00 ","$570,000.00 ",23.91%,$330.00 ,,$280.00 ,38%,
+Leppington,South West,2179,"Australian 17.1%, English 13.1%, Italian 10.4%, Chinese 5.4%, Lebanese 4.9%","$730,000.00 ","$850,000.00 ",16.44%,$550.00 ,"$600,000.00 ",,1%,
+Narellan,South West,2567,"Australian 31.5%, English 29.0%, Irish 8.1%, Scottish 6.3%, Italian 3.2%","$650,000.00 ","$740,000.00 ",13.85%,$430.00 ,,$410.00 ,4%,
+Ashcroft,Western Suburbs,2168,"Australian 16.4%, English 14.3%, Lebanese 11.3%, Vietnamese 9.6%, Chinese 3.3%","$610,000.00 ","$700,000.00 ",14.75%,$400.00 ,,$300.00 ,32%,
+Ashbury,Inner West,2193,"Australian 17.6%, English 14.9%, Italian 13.1%, Greek 8.4%, Irish 7.5%","$1,450,000.00 ","$1,750,000.00 ",20.69%,$750.00 ,,,0%,
+Asquith,Northern Suburbs,2077,"English 25.1%, Australian 21.9%, Chinese 8.3%, Irish 7.1%, Scottish 6.3%","$1,100,000.00 ","$1,400,000.00 ",27.27%,$590.00 ,"$625,000.00 ",$510.00 ,1%,
+Banksia,Southern Suburbs,2216,"Australian 12.8%, English 10.8%, Macedonian 9.9%, Chinese 9.2%, Lebanese 5.2%","$1,050,000.00 ","$1,250,000.00 ",19.05%,$650.00 ,"$620,000.00 ",$450.00 ,0%,
+Birchgrove,Inner West,2041,"English 30.7%, Australian 18.3%, Irish 12.8%, Scottish 8.8%, German 3.1%","$2,100,000.00 ","$2,800,000.00 ",33.33%,$950.00 ,"$1,300,000.00 ",$625.00 ,0%,
+Blackett,Western Suburbs,2770,"Australian 25.1%, English 22.6%, Samoan 5.3%, Irish 5.3%, Scottish 4.4%","$460,000.00 ","$550,000.00 ",19.57%,$330.00 ,,$320.00 ,27%,
+Chifley,Southern Suburbs,2036,"Australian 20.6%, English 20.2%, Irish 10.4%, Chinese 5.6%, Scottish 4.9%","$1,700,000.00 ","$2,000,000.00 ",17.65%,"$1,000.00 ",,$490.00 ,15%,
+Hammondville,Western Suburbs,2170,"Australian 25.8%, English 22.5%, Scottish 6.2%, Irish 6.2%, Greek 3.0%","$745,000.00 ","$900,000.00 ",20.81%,$500.00 ,,$440.00 ,3%,
+Kareela,Sutherland Shire,2232,"English 26.0%, Australian 23.6%, Irish 9.1%, Scottish 7.2%, Chinese 5.2%","$1,150,000.00 ","$1,400,000.00 ",21.74%,$755.00 ,,$570.00 ,0%,
+Kings Park,Western Suburbs,2148,"Australian 26.5%, English 22.9%, Irish 7.9%, Scottish 5.5%, Italian 3.3%","$715,000.00 ","$860,000.00 ",20.28%,$455.00 ,,$355.00 ,1%,
+Miller,Western Suburbs,2168,"Australian 18.0%, English 15.9%, Lebanese 10.8%, Vietnamese 6.5%, Irish 4.1%","$570,000.00 ","$690,000.00 ",21.05%,$400.00 ,,$330.00 ,44%,
+Parklea,Western Suburbs,2768,"Indian 14.4%, Australian 10.0%, English 9.6%, Filipino 5.4%, Chinese 3.4%","$890,000.00 ","$1,030,000.00 ",15.73%,$550.00 ,,$470.00 ,0%,
+Queenscliff,Northern Beaches,2096,"English 29.3%, Australian 18.8%, Irish 10.5%, Scottish 7.8%, Italian 3.7%","$2,600,000.00 ","$3,100,000.00 ",19.23%,$890.00 ,"$965,000.00 ",$670.00 ,0%,
+Riverview,Lower North Shore,2066,"English 24.9%, Australian 22.4%, Irish 15.0%, Scottish 7.6%, Chinese 4.1%","$2,350,000.00 ","$2,800,000.00 ",19.15%,"$1,100.00 ",,,0%,
+Shalvey,Western Suburbs,2770,"Australian 26.7%, English 22.6%, Samoan 5.0%, Irish 4.5%, Scottish 3.9%","$510,000.00 ","$580,000.00 ",13.73%,$335.00 ,,,36%,
+Camden,South West,2570,"English 29.6%, Australian 27.0%, Irish 10.1%, Scottish 7.3%, German 2.9%","$700,000.00 ","$800,000.00 ",14.29%,$450.00 ,"$440,000.00 ",$400.00 ,7%,
+Prairiewood,Western Suburbs,2176,"Assyrian 10.0%, Italian 9.9%, Vietnamese 9.0%, Chinese 7.5%, Australian 7.5%","$805,000.00 ","$910,000.00 ",13.04%,$510.00 ,,,15%,
+Birrong,Western Suburbs,2143,"Vietnamese 17.6%, Chinese 12.9%, Australian 11.7%, Lebanese 10.3%, English 9.8%","$790,000.00 ","$1,000,000.00 ",26.58%,$500.00 ,,,6%,
+Brookvale,Northern Beaches,2100,"English 22.6%, Australian 17.9%, Irish 7.6%, Scottish 6.0%, Chinese 5.6%","$1,250,000.00 ",,-100.00%,$790.00 ,"$780,000.00 ",$550.00 ,7%,
+Darlington,Sydney City,2008,"Chinese 19.6%, English 18.6%, Australian 13.5%, Irish 8.7%, Scottish 6.5%","$1,450,000.00 ","$1,700,000.00 ",17.24%,$850.00 ,,$615.00 ,5%,
+East Hills,Western Suburbs,2213,"Australian 24.2%, English 20.7%, Irish 6.8%, Chinese 4.9%, Scottish 4.4%","$900,000.00 ","$1,050,000.00 ",16.67%,$540.00 ,"$630,000.00 ",$470.00 ,12%,
+Galston,Northern Suburbs,2159,"English 31.0%, Australian 25.3%, Irish 8.8%, Scottish 7.6%, Italian 5.0%","$1,250,000.00 ","$1,650,000.00 ",32.00%,$590.00 ,,,0%,
+Kurrajong,Northern Suburbs,2758,"English 30.8%, Australian 29.4%, Irish 8.5%, Scottish 7.3%, Maltese 3.5%","$950,000.00 ","$1,200,000.00 ",26.32%,$460.00 ,,,0%,
+Oxley Park,Western Suburbs,2760,"Australian 20.3%, English 19.7%, Irish 5.1%, Scottish 4.6%, Filipino 3.7%","$585,000.00 ","$750,000.00 ",28.21%,$380.00 ,"$495,000.00 ",$395.00 ,6%,
+Sadleir,Western Suburbs,2168,"Australian 17.7%, English 15.1%, Lebanese 14.1%, Vietnamese 9.1%, Irish 4.3%","$580,000.00 ","$690,000.00 ",18.97%,$380.00 ,,,35%,
+Yowie Bay,Sutherland Shire,2228,"English 29.0%, Australian 26.9%, Irish 9.8%, Scottish 8.5%, Italian 3.6%","$1,800,000.00 ","$2,100,000.00 ",16.67%,$825.00 ,,,0%,
+Pitt Town,Northern Suburbs,2756,"Australian 31.6%, English 30.7%, Irish 9.1%, Scottish 7.3%, Maltese 3.2%","$1,100,000.00 ","$1,300,000.00 ",18.18%,$630.00 ,,,0%,
+Terrey Hills,Northern Suburbs,2084,"English 30.9%, Australian 25.8%, Irish 7.7%, Scottish 7.5%, German 3.2%","$1,650,000.00 ","$2,200,000.00 ",33.33%,$950.00 ,,,0%,
+Warrawee,Upper North Shore,2074,"English 27.8%, Australian 19.8%, Chinese 8.9%, Scottish 8.1%, Irish 7.8%","$2,400,000.00 ","$3,200,000.00 ",33.33%,"$1,000.00 ","$955,000.00 ",$610.00 ,0%,
+Wilberforce,Northern Suburbs,2756,"Australian 32.3%, English 29.6%, Irish 8.4%, Scottish 5.7%, Maltese 5.0%","$780,000.00 ","$920,000.00 ",17.95%,$430.00 ,,,0%,
+Airds,South West,2560,"Australian 31.1%, English 23.0%, Samoan 5.4%, Irish 4.7%, German 3.1%","$445,000.00 ","$550,000.00 ",23.60%,$370.00 ,,,87%,
+Chiswick,Inner West,2046,"English 17.6%, Australian 14.8%, Italian 11.7%, Chinese 8.4%, Irish 8.3%","$2,870,000.00 ",,-100.00%,"$1,300.00 ","$870,000.00 ",$600.00 ,1%,
+Davidson,Northern Suburbs,2085,"English 32.1%, Australian 24.1%, Irish 9.1%, Scottish 7.6%, Chinese 2.8%","$1,550,000.00 ","$2,000,000.00 ",29.03%,"$1,000.00 ",,,0%,
+Enfield,Inner West,2136,"English 18.4%, Australian 17.0%, Vietnamese 6.5%, Indian 5.3%, Chinese 4.8%","$1,250,000.00 ","$1,650,000.00 ",32.00%,$600.00 ,"$635,000.00 ",$470.00 ,4%,
+Queens Park,Eastern Suburbs,2022,"English 26.1%, Australian 20.3%, Irish 10.5%, Scottish 5.3%, Italian 3.3%","$2,700,000.00 ","$3,300,000.00 ",22.22%,"$1,400.00 ","$1,150,000.00 ",$690.00 ,3%,
+Wheeler Heights,Northern Beaches,2097,"English 31.0%, Australian 26.7%, Irish 9.0%, Scottish 8.0%, Italian 3.2%","$1,550,000.00 ","$2,100,000.00 ",35.48%,$800.00 ,,$575.00 ,0%,
+Dharruk,Western Suburbs,2770,"Australian 20.4%, English 19.6%, Samoan 5.0%, Irish 4.2%, Scottish 3.8%","$500,000.00 ","$650,000.00 ",30.00%,$370.00 ,,,11%,
+Yarrawarrah,Sutherland Shire,2233,"Australian 31.7%, English 31.0%, Irish 11.3%, Scottish 6.9%, German 2.8%","$1,000,000.00 ","$1,300,000.00 ",30.00%,,,,0%,
+Castle Cove,Lower North Shore,2069,"English 19.8%, Australian 18.7%, Chinese 15.9%, Irish 7.9%, Scottish 6.5%","$2,500,000.00 ","$3,300,000.00 ",32.00%,"$1,100.00 ",,,0%,
+Claymore,South West,2559,"Australian 20.7%, English 18.8%, Samoan 8.2%, Irish 4.1%, Scottish 3.0%","$685,000.00 ",,-100.00%,$500.00 ,,,87%,
+Kearns,South West,2558,"Australian 26.7%, English 23.7%, Irish 6.8%, Scottish 6.4%, Italian 4.4%","$650,000.00 ","$740,000.00 ",13.85%,$460.00 ,,,0%,
+Lansvale,Western Suburbs,2166,"Vietnamese 25.3%, Australian 12.4%, English 10.9%, Chinese 9.4%, Lebanese 4.5%","$725,000.00 ","$850,000.00 ",17.24%,$480.00 ,,,4%,
+Woodbine,South West,2560,"Australian 21.8%, English 20.6%, Irish 6.3%, Scottish 4.6%, Lebanese 3.9%","$630,000.00 ","$700,000.00 ",11.11%,$400.00 ,,$320.00 ,0%,
+Appin,South West,2560,"Australian 34.5%, English 29.1%, Irish 7.5%, Scottish 6.5%, Italian 2.7%","$720,000.00 ","$800,000.00 ",11.11%,$475.00 ,,$390.00 ,2%,
+Bardwell Park,Southern Suburbs,2207,"Greek 18.0%, English 14.1%, Australian 12.3%, Chinese 10.2%, Italian 5.5%","$1,150,000.00 ","$1,500,000.00 ",30.43%,$700.00 ,"$590,000.00 ",$450.00 ,0%,
+Bardwell Valley,Southern Suburbs,2207,"English 14.4%, Australian 14.0%, Lebanese 12.7%, Greek 8.4%, Irish 6.4%","$1,200,000.00 ","$1,400,000.00 ",16.67%,$620.00 ,,$590.00 ,2%,
+Bonnet Bay,Sutherland Shire,2226,"English 28.2%, Australian 25.9%, Irish 10.3%, Scottish 9.2%, German 2.5%","$1,200,000.00 ","$1,500,000.00 ",25.00%,$800.00 ,,,0%,
+Cheltenham,North Shore,2119,"English 23.0%, Australian 21.1%, Chinese 15.5%, Irish 7.6%, Scottish 7.4%","$1,550,000.00 ","$2,000,000.00 ",29.03%,$760.00 ,,,0%,
+Curl Curl,Northern Beaches,2096,"English 28.8%, Australian 24.9%, Irish 10.7%, Scottish 8.0%, German 2.8%","$2,300,000.00 ","$3,000,000.00 ",30.43%,$980.00 ,"$1,300,000.00 ",$720.00 ,2%,
+Kurnell,Sutherland Shire,2231,"English 32.8%, Australian 30.6%, Irish 8.6%, Scottish 6.5%, Italian 2.3%","$1,200,000.00 ","$1,500,000.00 ",25.00%,$630.00 ,,$580.00 ,0%,
+Rossmore,Western Suburbs,2557,"Australian 17.6%, English 14.7%, Italian 12.9%, Lebanese 9.1%, Maltese 6.5%","$3,100,000.00 ","$3,600,000.00 ",16.13%,$590.00 ,,,0%,
+Turrella,Southern Suburbs,2205,"Chinese 15.0%, Lebanese 12.1%, English 11.9%, Australian 11.3%, Irish 4.7%","$990,000.00 ","$1,450,000.00 ",46.46%,$620.00 ,"$680,000.00 ",$560.00 ,3%,
+Willmot,Western Suburbs,2770,"Australian 25.2%, English 24.5%, Irish 5.2%, Samoan 5.1%, Scottish 5.0%","$430,000.00 ","$550,000.00 ",27.91%,$310.00 ,,,35%,
+Edmondson Park,South West,2174,"Indian 14.8%, Australian 11.7%, English 7.2%, Italian 6.3%, Chinese 4.8%","$800,000.00 ","$900,000.00 ",12.50%,$575.00 ,"$545,000.00 ",$390.00 ,3%,
+Emerton,Western Suburbs,2770,"Australian 22.7%, English 20.0%, Samoan 6.5%, Filipino 4.2%, Irish 4.1%","$470,000.00 ","$560,000.00 ",19.15%,$350.00 ,,,25%,
+Woronora,Sutherland Shire,2232,"English 28.9%, Australian 27.8%, Irish 10.3%, Scottish 6.6%, German 2.4%","$1,150,000.00 ","$1,350,000.00 ",17.39%,$700.00 ,,,0%,
+Cobbitty,South West,2570,"English 28.3%, Australian 27.4%, Irish 7.7%, Italian 6.1%, Scottish 5.8%","$735,000.00 ","$820,000.00 ",11.56%,$515.00 ,,,1%,
+Milsons Point,Lower North Shore,2061,"English 20.3%, Chinese 15.8%, Australian 9.7%, Irish 8.1%, Scottish 6.2%","$2,800,000.00 ","$3,000,000.00 ",7.14%,,"$1,450,000.00 ",$825.00 ,0%,
+Longueville,Lower North Shore,2066,"English 24.5%, Australian 22.3%, Irish 12.6%, Scottish 8.5%, Chinese 5.8%","$4,000,000.00 ","$4,500,000.00 ",12.50%,"$1,400.00 ",,,0%,
+Cabarita,Inner West,2137,"English 20.5%, Australian 13.9%, Chinese 11.5%, Italian 10.4%, Irish 9.3%","$2,500,000.00 ","$2,650,000.00 ",6.00%,$920.00 ,"$1,700,000.00 ",$890.00 ,1%,
+Colebee,Western Suburbs,2761,"Australian 15.3%, Indian 13.9%, English 13.4%, Filipino 12.0%, Chinese 5.5%","$920,000.00 ","$1,050,000.00 ",14.13%,$620.00 ,,,,
+Horsley Park,Western Suburbs,2175,"Italian 24.9%, Maltese 16.2%, Australian 12.8%, English 9.0%, Assyrian 3.9%","$2,250,000.00 ","$2,800,000.00 ",24.44%,$480.00 ,,,2%,
+Luddenham,Western Suburbs,2745,"Australian 24.9%, English 20.8%, Italian 10.8%, Maltese 6..7%, Scottish 4.9%","$1,600,000.00 ","$1,900,000.00 ",18.75%,$630.00 ,,,1%,
+Mulgoa,Western Suburbs,2745,"Australian 25.9%, English 25.8%, Irish 8.1%, Scottish 6.1%, Maltese 5.6%","$975,000.00 ","$1,200,000.00 ",23.08%,$630.00 ,,$320.00 ,0%,
+Oakville,Northern Suburbs,2765,"English 27.1%, Australian 26.2%, Maltese 12.4%, Irish 6.9%, Scottish 6.1%","$1,950,000.00 ","$2,400,000.00 ",23.08%,$690.00 ,,,0%,
+Orchard Hills,Western Suburbs,2748,"Australian 20.9%, English 17.6%, Maltese 12.4%, Italian 8.6%, Irish 5.6%","$1,800,000.00 ","$1,950,000.00 ",8.33%,$590.00 ,,,0%,
+Windsor,Northern Suburbs,2756,"English 30.9%, Australian 28.9%, Irish 10.3%, Scottish 7.5%, German 2.8%","$640,000.00 ","$740,000.00 ",15.63%,$420.00 ,"$405,000.00 ",$330.00 ,7%,
+Clontarf,Northern Beaches,2093,"English 31.0%, Australian 18.8%, Irish 9.4%, Scottish 8.1%, Italian 3.3%","$3,700,000.00 ",,-100.00%,"$1,450.00 ",,,0%,
+Taren Point,Sutherland Shire,2229,"English 24.2%, Australian 20.9%, Greek 9.3%, Scottish 6.5%, Irish 6.4%","$1,400,000.00 ","$1,800,000.00 ",28.57%,$920.00 ,"$990,000.00 ",,0%,
+Clemton Park,Southern Suburbs,2206,"Greek 19.8%, Australian 12.7%, English 9.7%, Lebanese 8.4%, Chinese 7.6%","$1,150,000.00 ","$1,400,000.00 ",21.74%,$645.00 ,,$520.00 ,8%,
+Llandilo,Western Suburbs,2747,"Australian 23.6%, Maltese 19.6%, English 17.9%, Italian 6.2%, Irish 4.8%","$740,000.00 ","$880,000.00 ",18.92%,$530.00 ,,,0%,
+Melrose Park,North Shore,2114,"Australian 18.8%, English 17.9%, Chinese 11.8%, Irish 11.2%, Scottish 6.6%","$1,500,000.00 ","$1,750,000.00 ",16.67%,$680.00 ,,,3%,
+Palm Beach,Northern Beaches,2108,"English 34.2%, Australian 21.2%, Scottish 11.1%, Irish 10.1%, German 3.1%","$3,400,000.00 ","$3,750,000.00 ",10.29%,"$1,080.00 ",,$750.00 ,0%,
+Tamarama,Eastern Suburbs,2026,"English 24.6%, Australian 16.0%, Irish 11.0%, Scottish 6.9%, Italian 4.2%","$5,000,000.00 ","$6,300,000.00 ",26.00%,"$1,800.00 ","$1,250,000.00 ",$920.00 ,1%,
+Dolls Point,Southern Suburbs,2219,"Australian 16.6%, English 15.9%, Greek 12.7%, Irish 6.2%, Italian 4.9%","$1,900,000.00 ",,-100.00%,,"$700,000.00 ",$460.00 ,1%,
+Wallacia,Western Suburbs,2745,"Australian 28.3%, English 24.8%, Irish 7.0%, Maltese 6.8%, Scottish 5.7%","$765,000.00 ","$850,000.00 ",11.11%,$450.00 ,,,0%,
+Yennora,Western Suburbs,2161,"Lebanese 13.1%, Australian 12.3%, English 8.9%, Vietnamese 8.8%, Chinese 7.3%","$710,000.00 ","$800,000.00 ",12.68%,$475.00 ,"$420,000.00 ",$445.00 ,28%,
+Wareemba,Inner West,2046,"Italian 22.6%, Australian 19.1%, English 18.9%, Irish 9.9%, Scottish 4.5%","$1,850,000.00 ","$2,100,000.00 ",13.51%,$750.00 ,,$600.00 ,1%,
+Woodpark,Western Suburbs,2164,"Australian 18.8%, Lebanese 15.5%, English 14.1%, Irish 4.1%, Italian 3.6%","$790,000.00 ","$880,000.00 ",11.39%,$520.00 ,,,0%,
+Annangrove,Hills Shire,2156,"English 29.8%, Australian 23.5%, Italian 8.2%, Irish 7.6%, Scottish 5.8%","$1,950,000.00 ",,-100.00%,$495.00 ,,,,
+Lilli Pilli,Sutherland Shire,2229,"English 33.0%, Australian 25.4%, Irish 11.4%, Scottish 6.4%, Italian 3.7%","$2,200,000.00 ","$2,700,000.00 ",22.73%,$900.00 ,,,0%,
+Maraylya,Northern Suburbs,2765,"Australian 29.6%, English 28.6%, Irish 7.9%, Scottish 7.2%, Maltese 6.1%","$1,800,000.00 ","$2,200,000.00 ",22.22%,$630.00 ,,,0%,
+Middle Cove,Lower North Shore,2068,"English 24.8%, Australian 22.8%, Irish 9.8%, Chinese 8.5%, Scottish 6.6%","$1,900,000.00 ","$2,400,000.00 ",26.32%,"$1,050.00 ",,,0%,
+Millers Point,Sydney City,2000,"English 20.1%, Australian 14.2%, Irish 8.5%, Chinese 6.8%, Scottish 5.6%","$2,800,000.00 ","$3,100,000.00 ",10.71%,"$1,250.00 ","$2,100,000.00 ",$950.00 ,0%,
+Point Piper,Eastern Suburbs,2027,"English 21.8%, Australian 15.4%, Irish 9.1%, Scottish 7.5%, Chinese 6.6%","$12,000,000.00 ","$15,000,000.00 ",25.00%,,"$2,400,000.00 ",$980.00 ,0%,
+Rodd Point,Inner West,2046,"Italian 19.9%, English 17.8%, Australian 17.1%, Chinese 7.6%, Irish 6.9%","$1,950,000.00 ","$2,400,000.00 ",23.08%,$865.00 ,,,0%,
+Holroyd,Western Suburbs,2142,"Indian 12.7%, Chinese 10.1%, Australian 9.1%, Afghan 8.7%, English 8.0%","$890,000.00 ","$1,100,000.00 ",23.60%,$600.00 ,,$440.00 ,0%,
+Sandringham,Southern Suburbs,2219,"English 21.0%, Greek 15.4%, Australian 14.7%, Irish 8.6%, Scottish 4.1%","$1,700,000.00 ","$2,300,000.00 ",35.29%,$740.00 ,"$820,000.00 ",$510.00 ,0%,
+Castlereagh,Western Suburbs,2749,"Australian 25.7%, English 25.0%, Maltese 12.9%, Irish 7.4%, Scottish 5.8%","$1,750,000.00 ",,-100.00%,$700.00 ,,,0%,
+Daceyville,Eastern Suburbs,2032,"Australian 21.4%, English 19.1%, Irish 10.1%, Scottish 5.2%, Chinese 3.6%","$1,470,000.00 ","$1,900,000.00 ",29.25%,$750.00 ,,,69%,
+Mount Lewis,Western Suburbs,2190,"Lebanese 39.2%, Australian 11.5%, English 5.8%, Greek 5.8%, Syrian 4.5%","$1,000,000.00 ","$1,100,000.00 ",10.00%,$550.00 ,,,16%,
+Mount Vernon,Western Suburbs,2178,"Italian 22.2%, Australian 12.4%, English 9.6%, Maltese 9.4%, Assyrian 4.9%","$1,900,000.00 ","$2,200,000.00 ",15.79%,,,,0%,
+Sydenham,Inner West,2044,"Australian 12.5%, English 12.5%, Indian 8.4%, Italian 7.4%, Maltese 5.0%","$1,300,000.00 ","$1,600,000.00 ",23.08%,$740.00 ,"$670,000.00 ",$470.00 ,0%,
+Ramsgate,Southern Suburbs,2217,"English 17.6%, Australian 17.1%, Greek 10.6%, Irish 5.5%, Scottish 4.8%","$1,300,000.00 ","$1,450,000.00 ",11.54%,$650.00 ,"$680,000.00 ",$550.00 ,0%,
+Kyle Bay,Southern Suburbs,2221,"Australian 16.2%, Greek 13.2%, English 13.1%, Chinese 10.6%, Lebanese 5.1%","$1,900,000.00 ","$2,300,000.00 ",21.05%,,,,0%,
+Mortlake,Inner West,2137,"English 17.0%, Australian 14.3%, Chinese 12.1%, Italian 8.0%, Irish 7.0%","$1,400,000.00 ","$1,600,000.00 ",14.29%,$650.00 ,"$850,000.00 ",$590.00 ,1%,
+Port Hacking,Sutherland Shire,2229,"English 29.3%, Australian 27.5%, Irish 9.7%, Scottish 7.6%, German 3.8%","$1,800,000.00 ","$2,300,000.00 ",27.78%,,,,0%,
+Beaconsfield,Southern Suburbs,2015,"English 19.3%, Australian 18.4%, Chinese 9.7%, Irish 7.8%, Scottish 6.0%","$1,500,000.00 ","$1,650,000.00 ",10.00%,$870.00 ,"$945,000.00 ",$650.00 ,1%,
+Eastern Creek,Western Suburbs,2766,"Australian 22.7%, English 21.6%, Filipino 6.9%, Irish 5.7%, Indian 3.5%","$650,000.00 ","$750,000.00 ",15.38%,$410.00 ,,,2%,
+Kyeemagh,Southern Suburbs,2216,"Greek 19.7%, Australian 14.0%, English 10.0%, Lebanese 6.2%, Italian 5.2%","$1,400,000.00 ","$1,650,000.00 ",17.86%,,,$410.00 ,1%,
+Northwood,Lower North Shore,2066,"English 26.4%, Australian 23.0%, Irish 12.3%, Scottish 7.5%, Chinese 7.0%","$3,400,000.00 ","$4,200,000.00 ",23.53%,"$1,500.00 ",,,0%,
+Watsons Bay,Eastern Suburbs,2030,"English 26.0%, Australian 19.0%, Irish 11.2%, Scottish 7.1%, German 3.9%","$4,700,000.00 ","$5,500,000.00 ",17.02%,,"$1,300,000.00 ","$1,400.00 ",1%,
+Lavender Bay,Lower North Shore,2060,"English 25.8%, Australian 15.1%, Irish 13.7%, Scottish 9.5%, Chinese 4.5%","$3,400,000.00 ","$4,200,000.00 ",23.53%,,"$950,000.00 ",$590.00 ,3%,
+Bexley North,Southern Suburbs,2207,"Greek 17.5%, Chinese 13.3%, Australian 12.0%, English 10.6%, Lebanese 5.1%","$1,150,000.00 ","$1,400,000.00 ",21.74%,$610.00 ,"$580,000.00 ",$485.00 ,7%,
