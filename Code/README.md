@@ -13,4 +13,4 @@ Step 9: Run the main.py
 Step 10: Wait until all the terminals have done and come to the SQL Database that you had connected with in .env before to check the result.
 Step 11: If you opened the Azure before, just refresh it and check the result.
 
-result: The result should be dimension tables and a fact tables as single star schema with Primary keys and Foreign keys. IF the database is connected with the Power BI or some other BI platform, the ERD should have the relationships between the table.
+Result: the result should be dimension tables and a fact tables as single star schema with Primary keys and Foreign keys. IF the database is connected with the Power BI or some other BI platform, the ERD should have the relationships between the table.
